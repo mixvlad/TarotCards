@@ -1,0 +1,48 @@
+{
+  "deck_name": "Rider-Waite Tarot Deck",
+  "alternative_names": [
+    "Rider-Waite-Smith Tarot",
+    "RWS Tarot",
+    "Pamela Colman Smith Tarot"
+  ],
+  "original_artist": "Pamela Colman Smith",
+  "original_publisher": "Rider & Company",
+  "publication_year": 1909,
+  "deck_type": "Tarot",
+  "card_count": 78,
+  "major_arcana_count": 22,
+  "minor_arcana_count": 56,
+  "downloaded_cards": 7,
+  "available_cards": [
+    "00_Fool",
+    "10_Wheel_of_Fortune", 
+    "12_Hanged_Man",
+    "13_Death",
+    "14_Temperance",
+    "17_Star",
+    "19_Sun"
+  ],
+  "suits": [
+    "Wands",
+    "Cups", 
+    "Swords",
+    "Pentacles"
+  ],
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/Category:Rider-Waite_Tarot_cards",
+    "license": "Public Domain",
+    "download_method": "Automated script from Wikimedia Commons"
+  },
+  "attribution": {
+    "artist": "Pamela Colman Smith (1878-1951)",
+    "publisher": "Rider & Company",
+    "year": 1909,
+    "designer": "Arthur Edward Waite"
+  },
+  "description": "The Rider-Waite-Smith tarot deck is one of the most influential and widely used tarot decks in the world. Created by artist Pamela Colman Smith under the direction of Arthur Edward Waite, it was first published in 1909. This deck is notable for being the first to illustrate all 78 cards with detailed imagery, including the minor arcana cards which were previously unillustrated in most decks.",
+  "historical_significance": "This deck revolutionized tarot by being the first to feature fully illustrated minor arcana cards, making tarot more accessible to the general public. It has become the standard reference deck for tarot interpretation and has influenced countless subsequent decks.",
+  "copyright_status": "Public Domain - The original deck was published in 1909 and is now in the public domain in most countries.",
+  "image_format": "JPG",
+  "image_quality": "High resolution (800px versions)",
+  "last_updated": "2024-12-19"
+} 
