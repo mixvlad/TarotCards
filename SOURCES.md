@@ -7,14 +7,15 @@ This document provides detailed information about the sources of tarot card imag
 ### Source Information
 - **Original Artist**: Pamela Colman Smith (1878-1951)
 - **Original Publisher**: Rider & Company (1909)
-- **Current Source**: Wikimedia Commons
+- **Current Source**: Steve-P.org Tarot Collection
 - **License**: Public Domain (copyright expired)
 
 ### Image Details
-- **Source URL**: https://commons.wikimedia.org/wiki/Category:Rider-Waite_Tarot_cards
-- **Download Method**: Automated script using wget and curl
-- **Image Format**: JPG
-- **Resolution**: High quality (800px versions)
+- **Source URL**: https://steve-p.org/cards/RWSa.html
+- **Download Method**: Automated Python script using requests library
+- **Image Format**: PNG
+- **Resolution**: High quality scans from original deck
+- **Download Script**: download_tarot_cards.py
 
 ### Copyright Status
 The Rider-Waite-Smith tarot deck was published in 1909 and is now in the public domain in most countries. The original artwork by Pamela Colman Smith and the deck design by Arthur Edward Waite are no longer under copyright protection.
