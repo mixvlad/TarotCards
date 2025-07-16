@@ -5,28 +5,28 @@ import time
 # Сопоставление ваших имён файлов с кодами на сайте
 card_url_map = {
     # Старшие арканы
-    "RWS_Tarot_00_Fool.jpg": "RWSa-T-00.png",
-    "RWS_Tarot_01_Magician.jpg": "RWSa-T-01.png",
-    "RWS_Tarot_02_High_Priestess.jpg": "RWSa-T-02.png",
-    "RWS_Tarot_03_Empress.jpg": "RWSa-T-03.png",
-    "RWS_Tarot_04_Emperor.jpg": "RWSa-T-04.png",
-    "RWS_Tarot_05_Hierophant.jpg": "RWSa-T-05.png",
-    "RWS_Tarot_06_Lovers.jpg": "RWSa-T-06.png",
-    "RWS_Tarot_07_Chariot.jpg": "RWSa-T-07.png",
-    "RWS_Tarot_08_Strength.jpg": "RWSa-T-08.png",
-    "RWS_Tarot_09_Hermit.jpg": "RWSa-T-09.png",
-    "RWS_Tarot_10_Wheel_of_Fortune.jpg": "RWSa-T-10.png",
-    "RWS_Tarot_11_Justice.jpg": "RWSa-T-11.png",
-    "RWS_Tarot_12_Hanged_Man.jpg": "RWSa-T-12.png",
-    "RWS_Tarot_13_Death.jpg": "RWSa-T-13.png",
-    "RWS_Tarot_14_Temperance.jpg": "RWSa-T-14.png",
-    "RWS_Tarot_15_Devil.jpg": "RWSa-T-15.png",
-    "RWS_Tarot_16_Tower.jpg": "RWSa-T-16.png",
-    "RWS_Tarot_17_Star.jpg": "RWSa-T-17.png",
-    "RWS_Tarot_18_Moon.jpg": "RWSa-T-18.png",
-    "RWS_Tarot_19_Sun.jpg": "RWSa-T-19.png",
-    "RWS_Tarot_20_Judgement.jpg": "RWSa-T-20.png",
-    "RWS_Tarot_21_World.jpg": "RWSa-T-21.png",
+    "00_Fool.jpg": "RWSa-T-00.png",
+    "01_Magician.jpg": "RWSa-T-01.png",
+    "02_High_Priestess.jpg": "RWSa-T-02.png",
+    "03_Empress.jpg": "RWSa-T-03.png",
+    "04_Emperor.jpg": "RWSa-T-04.png",
+    "05_Hierophant.jpg": "RWSa-T-05.png",
+    "06_Lovers.jpg": "RWSa-T-06.png",
+    "07_Chariot.jpg": "RWSa-T-07.png",
+    "08_Strength.jpg": "RWSa-T-08.png",
+    "09_Hermit.jpg": "RWSa-T-09.png",
+    "10_Wheel_of_Fortune.jpg": "RWSa-T-10.png",
+    "11_Justice.jpg": "RWSa-T-11.png",
+    "12_Hanged_Man.jpg": "RWSa-T-12.png",
+    "13_Death.jpg": "RWSa-T-13.png",
+    "14_Temperance.jpg": "RWSa-T-14.png",
+    "15_Devil.jpg": "RWSa-T-15.png",
+    "16_Tower.jpg": "RWSa-T-16.png",
+    "17_Star.jpg": "RWSa-T-17.png",
+    "18_Moon.jpg": "RWSa-T-18.png",
+    "19_Sun.jpg": "RWSa-T-19.png",
+    "20_Judgement.jpg": "RWSa-T-20.png",
+    "21_World.jpg": "RWSa-T-21.png",
     # Кубки (Cups) - исправленные коды
     "Cups01.jpg": "RWSa-C-0A.png",  # Ace 0A
     "Cups02.jpg": "RWSa-C-02.png",
@@ -120,7 +120,7 @@ missing_cards_alternatives = {
 }
 
 base_url = "https://steve-p.org/cards/pix/"
-download_dir = "tarot/rider-waite/cards"
+download_dir = "tarot/rider-waite/full"
 os.makedirs(download_dir, exist_ok=True)
 
 def download_all():
