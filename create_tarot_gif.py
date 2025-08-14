@@ -184,6 +184,195 @@ def create_filtered_gif(cards_dir, output_path, filter_func=None, duration=500, 
     except Exception as e:
         print(f"Ошибка при создании GIF: {e}")
 
+def create_single_card_gif(cards_dir, output_path, num_cards_pool=12, num_frames=12, duration=500, loop=0):
+    """
+    Создает GIF с одной меняющейся картой
+    """
+    # Получаем все доступные карты
+    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))
+    
+    # Исключаем обложки из выборки
+    card_files = [f for f in card_files if 'Cover' not in os.path.basename(f)]
+    
+    if len(card_files) < num_cards_pool:
+        print(f"Недостаточно карт: найдено {len(card_files)}, требуется {num_cards_pool}")
+        return
+    
+    # Выбираем пул карт для использования
+    card_pool = random.sample(card_files, num_cards_pool)
+    
+    # Параметры композиции для одной карты
+    card_height = 160  # Высота карты с учетом отступов
+    card_width = int(card_height * 0.6)  # Соотношение сторон карт 0.6
+    padding = 10  # Отступы вокруг карты
+    frame_width = card_width + (padding * 2)
+    frame_height = 180  # Заданная высота
+    
+    # Центрируем карту
+    x_position = (frame_width - card_width) // 2
+    y_position = (frame_height - card_height) // 2
+    
+    frames = []
+    
+    for frame_num in range(num_frames):
+        # Создаем пустой кадр с темным фоном
+        frame = Image.new('RGB', (frame_width, frame_height), color=(20, 20, 20))
+        
+        # Выбираем случайную карту из пула
+        card_file = random.choice(card_pool)
+        
+        try:
+            # Загружаем и изменяем размер карты
+            card = Image.open(card_file)
+            card = card.resize((card_width, card_height), Image.Resampling.LANCZOS)
+            
+            # Вставляем карту в кадр
+            frame.paste(card, (x_position, y_position))
+            
+        except Exception as e:
+            print(f"Ошибка при обработке карты {card_file}: {e}")
+        
+        # Конвертируем в палитру для оптимизации размера
+        frame = frame.convert('P', palette=Image.Palette.ADAPTIVE, colors=64)
+        frames.append(frame)
+    
+    # Сохраняем GIF
+    try:
+        frames[0].save(
+            output_path,
+            save_all=True,
+            append_images=frames[1:],
+            duration=duration,
+            loop=loop,
+            optimize=True,
+            disposal=2
+        )
+        print(f"GIF с одной картой создан: {output_path}")
+        print(f"Параметры: {num_frames} кадров, пул из {num_cards_pool} карт")
+        print(f"Размер кадра: {frame_width}x{frame_height}")
+        print(f"Размер карты: {card_width}x{card_height}")
+        
+        file_size = os.path.getsize(output_path) / (1024 * 1024)
+        print(f"Размер файла: {file_size:.2f} МБ")
+    except Exception as e:
+        print(f"Ошибка при создании GIF: {e}")
+
+def create_celtic_cross_gif(cards_dir, output_path, num_frames=12, duration=500, loop=0):
+    """
+    Создает GIF с 10 картами в раскладе Кельтский крест
+    Каждый кадр показывает разные карты в позициях расклада
+    """
+    # Получаем все доступные карты
+    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))
+    
+    # Исключаем обложки из выборки
+    card_files = [f for f in card_files if 'Cover' not in os.path.basename(f)]
+    
+    if len(card_files) < 10:
+        print(f"Недостаточно карт: найдено {len(card_files)}, требуется минимум 10")
+        return
+    
+    # Параметры композиции - прямоугольное изображение
+    frame_width = 500  # Уменьшенная ширина (было 600)
+    frame_height = 600  # Сохраняем высоту для колонны справа
+    card_height = 120  # Увеличенные карты для лучшей видимости
+    card_width = int(card_height * 0.6)  # 72px
+    
+    # Центр креста смещен влево от центра кадра
+    cross_center_x = 180  # Центр креста левее центра кадра
+    cross_center_y = frame_height // 2
+    
+    # Отступы между картами
+    gap = 15
+    
+    # Позиции карт в раскладе Кельтский крест
+    # Формат: (x, y, is_rotated, z_order) - z_order для правильного наложения
+    positions = [
+        # Центральный крест (карты 1-6)
+        (cross_center_x - card_width//2, cross_center_y - card_height//2, False, 1),  # 1: Ситуация (центр)
+        (cross_center_x - card_height//2, cross_center_y - card_width//2, True, 2),   # 2: Крест (поверх 1, повернута)
+        (cross_center_x - card_width*2 - gap, cross_center_y - card_height//2, False, 0),  # 3: Далекое прошлое (слева)
+        (cross_center_x - card_width//2, cross_center_y + card_height//2 + gap, False, 0),  # 4: Недавнее прошлое (снизу)
+        (cross_center_x - card_width//2, cross_center_y - card_height - gap - card_height//2, False, 0),  # 5: Возможное будущее (сверху)
+        (cross_center_x + card_width + gap, cross_center_y - card_height//2, False, 0),  # 6: Ближайшее будущее (справа)
+        
+        # Колонна справа (карты 7-10)
+        (frame_width - card_width - 30, frame_height - card_height - 30, False, 0),  # 7: Ваш подход (внизу)
+        (frame_width - card_width - 30, frame_height - card_height*2 - gap - 30, False, 0),  # 8: Внешние влияния
+        (frame_width - card_width - 30, frame_height - card_height*3 - gap*2 - 30, False, 0),  # 9: Надежды и страхи
+        (frame_width - card_width - 30, frame_height - card_height*4 - gap*3 - 30, False, 0),  # 10: Итог (вверху)
+    ]
+    
+    frames = []
+    
+    for frame_num in range(num_frames):
+        # Создаем пустой кадр с темным фоном
+        frame = Image.new('RGBA', (frame_width, frame_height), color=(20, 20, 20, 255))
+        
+        # Выбираем 10 случайных карт для этого кадра
+        selected_cards = random.sample(card_files, 10)
+        
+        # Сортируем позиции по z_order для правильного наложения
+        cards_with_positions = list(zip(selected_cards, positions))
+        cards_with_positions.sort(key=lambda x: x[1][3])  # Сортировка по z_order
+        
+        # Размещаем карты в позициях расклада
+        for card_file, (x, y, is_rotated, z_order) in cards_with_positions:
+            try:
+                # Загружаем и изменяем размер карты
+                card = Image.open(card_file)
+                
+                if is_rotated:
+                    # Для карты 2 (крест) - поворачиваем на 90 градусов
+                    card = card.resize((card_width, card_height), Image.Resampling.LANCZOS)
+                    card = card.rotate(90, expand=True)
+                    # Добавляем небольшую тень для лучшей видимости наложения
+                    shadow = Image.new('RGBA', card.size, (0, 0, 0, 100))
+                    frame.paste(shadow, (x-2, y+2))
+                else:
+                    card = card.resize((card_width, card_height), Image.Resampling.LANCZOS)
+                
+                # Конвертируем в RGBA для правильного наложения
+                if card.mode != 'RGBA':
+                    card_rgba = Image.new('RGBA', card.size, (255, 255, 255, 255))
+                    card_rgba.paste(card, (0, 0))
+                    card = card_rgba
+                
+                # Вставляем карту в кадр
+                frame.paste(card, (x, y))
+                
+            except Exception as e:
+                print(f"Ошибка при обработке карты {card_file}: {e}")
+        
+        # Конвертируем обратно в RGB и затем в палитру для оптимизации
+        frame = frame.convert('RGB')
+        frame = frame.convert('P', palette=Image.Palette.ADAPTIVE, colors=128)
+        frames.append(frame)
+        
+        if frame_num % 3 == 0:  # Показываем прогресс каждые 3 кадра
+            print(f"Создан кадр {frame_num + 1}/{num_frames}")
+    
+    # Сохраняем GIF
+    try:
+        frames[0].save(
+            output_path,
+            save_all=True,
+            append_images=frames[1:],
+            duration=duration,
+            loop=loop,
+            optimize=True,
+            disposal=2
+        )
+        print(f"GIF с раскладом Кельтский крест создан: {output_path}")
+        print(f"Параметры: {num_frames} кадров, 10 карт на кадр")
+        print(f"Размер кадра: {frame_width}x{frame_height}")
+        print(f"Размер карт: {card_width}x{card_height}")
+        
+        file_size = os.path.getsize(output_path) / (1024 * 1024)
+        print(f"Размер файла: {file_size:.2f} МБ")
+    except Exception as e:
+        print(f"Ошибка при создании GIF: {e}")
+
 def create_telegram_optimized_gif(cards_dir, output_path, num_cards_pool=12, num_frames=10, duration=100, loop=0):
     """
     Создает GIF оптимизированный для Telegram (меньше размер, быстрее анимация)
@@ -407,12 +596,11 @@ if __name__ == "__main__":
     gif_directory = os.path.join(base_dir, "gif")
     os.makedirs(gif_directory, exist_ok=True)
     
-    # Создаем GIF оптимизированный для Telegram
-    create_telegram_optimized_gif(
+    # Создаем улучшенный GIF с раскладом Кельтский крест (10 карт)
+    create_celtic_cross_gif(
         cards_dir=cards_directory,
-        output_path=os.path.join(gif_directory, "telegram_tarot.gif"),
-        num_cards_pool=12,
-        num_frames=10,  # Меньше кадров для Telegram
-        duration=100,  # Быстрая анимация (100ms на кадр)
+        output_path=os.path.join(gif_directory, "celtic_cross_improved.gif"),
+        num_frames=12,
+        duration=500,
         loop=0
     ) 
