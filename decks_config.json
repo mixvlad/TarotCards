@@ -1,0 +1,83 @@
+{
+  "decks": {
+    "rider-waite": {
+      "name": "Rider-Waite",
+      "description": "Классическая колода Райдера-Уэйта",
+      "source_dir": "tarot/rider-waite",
+      "full_size_dir": "tarot/rider-waite/full",
+      "resized_dirs": {
+        "720px": "tarot/rider-waite/720px",
+        "360px": "tarot/rider-waite/360px",
+        "thumbs": "tarot/rider-waite/thumbs"
+      },
+      "gif_dir": "tarot/rider-waite/gif",
+      "card_count": 78,
+      "card_format": "jpg",
+      "naming_pattern": "rws_tarot_*",
+      "has_cover": true
+    },
+    "soimoi": {
+      "name": "Soimoi",
+      "description": "Колода Soimoi",
+      "source_dir": "tarot/soimoi",
+      "full_size_dir": "tarot/soimoi/full",
+      "resized_dirs": {
+        "720px": "tarot/soimoi/720px",
+        "360px": "tarot/soimoi/360px",
+        "thumbs": "tarot/soimoi/thumbs"
+      },
+      "gif_dir": "tarot/soimoi/gif",
+      "card_count": 78,
+      "card_format": "jpg",
+      "naming_pattern": "*",
+      "has_cover": false
+    }
+  },
+  "default_settings": {
+    "gif": {
+      "single_card": {
+        "pool_size": 12,
+        "frames": 12,
+        "duration": 500,
+        "width": 232,
+        "height": 360
+      },
+      "three_cards": {
+        "pool_size": 12,
+        "frames": 12,
+        "duration": 500,
+        "width": 640,
+        "height": 360
+      },
+      "celtic_cross": {
+        "frames": 12,
+        "duration": 500,
+        "width": 500,
+        "height": 600
+      },
+      "telegram": {
+        "pool_size": 12,
+        "frames": 10,
+        "duration": 100,
+        "width": 256,
+        "height": 144
+      },
+      "random": {
+        "cards": 24,
+        "duration": 83,
+        "width": 200,
+        "height": 300
+      }
+    },
+    "resize": {
+      "standard_sizes": {
+        "full": {"width": null, "height": null},
+        "720px": {"width": 720, "height": null},
+        "360px": {"width": 360, "height": null},
+        "thumbs": {"width": null, "height": 200}
+      },
+      "quality": 95,
+      "preserve_aspect": true
+    }
+  }
+}

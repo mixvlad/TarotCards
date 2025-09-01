@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 """
-Скрипт для конвертации всех изображений в папке в формат JPG
-и удаления исходных файлов других форматов
+Универсальный скрипт для конвертации всех изображений в папке в формат JPG
+Поддерживает любые колоды и настраиваемые параметры
 """
 
 import os
 import glob
+import argparse
 from PIL import Image
 from pathlib import Path
 
-def convert_to_jpg(directory_path):
+def convert_to_jpg(directory_path, quality=95, keep_originals=False):
     """
     Конвертирует все изображения в указанной папке в формат JPG
     
@@ -54,10 +55,11 @@ def convert_to_jpg(directory_path):
             # Проверяем, существует ли уже JPG версия
             if os.path.exists(output_path):
                 print(f"⚠️  JPG версия уже существует: {file_name}.jpg")
-                # Удаляем исходный файл
-                os.remove(image_path)
-                print(f"   Удален исходный файл: {os.path.basename(image_path)}")
-                deleted_count += 1
+                # Удаляем исходный файл если не указано сохранять оригиналы
+                if not keep_originals:
+                    os.remove(image_path)
+                    print(f"   Удален исходный файл: {os.path.basename(image_path)}")
+                    deleted_count += 1
                 continue
             
             # Открываем изображение
@@ -76,15 +78,16 @@ def convert_to_jpg(directory_path):
                     else:
                         img = img.convert('RGB')
                 
-                # Сохраняем как JPG с хорошим качеством
-                img.save(output_path, 'JPEG', quality=95, optimize=True)
+                # Сохраняем как JPG с указанным качеством
+                img.save(output_path, 'JPEG', quality=quality, optimize=True)
                 print(f"✅ Конвертировано: {os.path.basename(image_path)} → {file_name}.jpg")
                 converted_count += 1
                 
-                # Удаляем исходный файл
-                os.remove(image_path)
-                print(f"   Удален исходный файл: {os.path.basename(image_path)}")
-                deleted_count += 1
+                # Удаляем исходный файл если не указано сохранять оригиналы
+                if not keep_originals:
+                    os.remove(image_path)
+                    print(f"   Удален исходный файл: {os.path.basename(image_path)}")
+                    deleted_count += 1
                 
         except Exception as e:
             print(f"❌ Ошибка при обработке {os.path.basename(image_path)}: {e}")
@@ -99,7 +102,8 @@ def convert_to_jpg(directory_path):
     print("\n" + "=" * 50)
     print("СТАТИСТИКА:")
     print(f"✅ Конвертировано файлов: {converted_count}")
-    print(f"🗑️  Удалено исходных файлов: {deleted_count}")
+    if not keep_originals and deleted_count > 0:
+        print(f"🗑️  Удалено исходных файлов: {deleted_count}")
     if already_jpg_count > 0:
         print(f"📁 Уже были в JPG формате: {already_jpg_count}")
     if error_count > 0:
@@ -108,20 +112,46 @@ def convert_to_jpg(directory_path):
     print("=" * 50)
 
 def main():
-    """Основная функция"""
-    # Путь к папке с изображениями
-    target_directory = "tarot/soimoi/full"
+    """Основная функция с поддержкой аргументов командной строки"""
+    parser = argparse.ArgumentParser(
+        description='Конвертация всех изображений в JPG формат',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Примеры использования:
+  # Конвертировать все изображения в папке soimoi
+  python convert_to_jpg.py --dir tarot/soimoi/full
+  
+  # Конвертировать с указанием качества
+  python convert_to_jpg.py -d tarot/new_deck/images --quality 90
+  
+  # Конвертировать без удаления оригиналов
+  python convert_to_jpg.py -d tarot/backup --keep-originals
+        """
+    )
+    
+    parser.add_argument('-d', '--dir', '--directory', 
+                        default="tarot/soimoi/full",
+                        help='Папка с изображениями для конвертации (по умолчанию: tarot/soimoi/full)')
+    parser.add_argument('-q', '--quality', type=int, default=95,
+                        help='Качество JPG (1-100, по умолчанию: 95)')
+    parser.add_argument('--keep-originals', action='store_true',
+                        help='Сохранить оригинальные файлы (не удалять после конвертации)')
+    
+    args = parser.parse_args()
     
     # Проверяем существование папки
-    if not os.path.exists(target_directory):
-        print(f"❌ Папка не найдена: {target_directory}")
+    if not os.path.exists(args.dir):
+        print(f"❌ Папка не найдена: {args.dir}")
         return
     
-    print(f"🎯 Начинаем конвертацию файлов в папке: {target_directory}")
+    print(f"🎯 Начинаем конвертацию файлов в папке: {args.dir}")
+    print(f"📊 Качество JPG: {args.quality}%")
+    if args.keep_originals:
+        print("📁 Оригинальные файлы будут сохранены")
     print("=" * 50)
     
     # Выполняем конвертацию
-    convert_to_jpg(target_directory)
+    convert_to_jpg(args.dir, args.quality, args.keep_originals)
     
     print("\n✨ Обработка завершена!")
 
