@@ -1,5 +1,11 @@
+#!/usr/bin/env python3
+"""
+Универсальный скрипт для создания GIF анимаций из карт таро
+Поддерживает различные типы анимаций и любые колоды
+"""
+
 import os
-import json
+import argparse
 from PIL import Image
 import glob
 import re
@@ -184,6 +190,25 @@ def create_filtered_gif(cards_dir, output_path, filter_func=None, duration=500, 
     except Exception as e:
         print(f"Ошибка при создании GIF: {e}")
 
+def get_average_aspect_ratio(cards_dir):
+    """
+    Определяет среднее соотношение сторон карт в колоде
+    """
+    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))[:10]  # Проверяем первые 10 карт
+    if not card_files:
+        return 0.6  # Значение по умолчанию
+    
+    ratios = []
+    for card_file in card_files:
+        try:
+            with Image.open(card_file) as img:
+                width, height = img.size
+                ratios.append(width / height)
+        except:
+            continue
+    
+    return sum(ratios) / len(ratios) if ratios else 0.6
+
 def create_single_card_gif(cards_dir, output_path, num_cards_pool=12, num_frames=12, duration=500, loop=0):
     """
     Создает GIF с одной меняющейся картой
@@ -201,12 +226,16 @@ def create_single_card_gif(cards_dir, output_path, num_cards_pool=12, num_frames
     # Выбираем пул карт для использования
     card_pool = random.sample(card_files, num_cards_pool)
     
-    # Параметры композиции для одной карты
-    card_height = 160  # Высота карты с учетом отступов
-    card_width = int(card_height * 0.6)  # Соотношение сторон карт 0.6
-    padding = 10  # Отступы вокруг карты
+    # Автоматически определяем соотношение сторон
+    aspect_ratio = get_average_aspect_ratio(cards_dir)
+    print(f"Определено соотношение сторон: {aspect_ratio:.3f}")
+    
+    # Параметры композиции для одной карты (увеличено в 2 раза)
+    card_height = 320  # Высота карты с учетом отступов (было 160)
+    card_width = int(card_height * aspect_ratio)  # Используем реальное соотношение сторон
+    padding = 20  # Отступы вокруг карты (было 10)
     frame_width = card_width + (padding * 2)
-    frame_height = 180  # Заданная высота
+    frame_height = 360  # Заданная высота (было 180)
     
     # Центрируем карту
     x_position = (frame_width - card_width) // 2
@@ -272,11 +301,15 @@ def create_celtic_cross_gif(cards_dir, output_path, num_frames=12, duration=500,
         print(f"Недостаточно карт: найдено {len(card_files)}, требуется минимум 10")
         return
     
+    # Автоматически определяем соотношение сторон
+    aspect_ratio = get_average_aspect_ratio(cards_dir)
+    print(f"Определено соотношение сторон: {aspect_ratio:.3f}")
+    
     # Параметры композиции - прямоугольное изображение
     frame_width = 500  # Уменьшенная ширина (было 600)
     frame_height = 600  # Сохраняем высоту для колонны справа
     card_height = 120  # Увеличенные карты для лучшей видимости
-    card_width = int(card_height * 0.6)  # 72px
+    card_width = int(card_height * aspect_ratio)  # Используем реальное соотношение
     
     # Центр креста смещен влево от центра кадра
     cross_center_x = 180  # Центр креста левее центра кадра
@@ -391,11 +424,14 @@ def create_telegram_optimized_gif(cards_dir, output_path, num_cards_pool=12, num
     # Выбираем пул карт для использования
     card_pool = random.sample(card_files, num_cards_pool)
     
+    # Автоматически определяем соотношение сторон
+    aspect_ratio = get_average_aspect_ratio(cards_dir)
+    
     # Параметры композиции - оптимизированы для Telegram
     frame_width = 256  # Кратно 16 для лучшего сжатия
     frame_height = 144  # Кратно 16 для лучшего сжатия
     card_height = 128  # Меньший размер для экономии места
-    card_width = int(card_height * 0.6)  # Соотношение сторон карт 0.6
+    card_width = int(card_height * aspect_ratio)  # Используем реальное соотношение
     padding_top = (frame_height - card_height) // 2  # Центрируем по вертикали
     
     # Рассчитываем горизонтальные отступы
@@ -485,17 +521,36 @@ def create_three_cards_gif(cards_dir, output_path, num_cards_pool=36, num_frames
     # Выбираем пул карт для использования
     card_pool = random.sample(card_files, num_cards_pool)
     
-    # Параметры композиции
-    frame_width = 320
-    frame_height = 180
-    card_height = 160  # Высота карты с учетом отступов
-    card_width = int(card_height * 0.6)  # Соотношение сторон карт 0.6
-    padding_top = (frame_height - card_height) // 2  # Центрируем по вертикали
+    # Автоматически определяем соотношение сторон
+    aspect_ratio = get_average_aspect_ratio(cards_dir)
+    print(f"Определено соотношение сторон: {aspect_ratio:.3f}")
     
-    # Рассчитываем горизонтальные отступы
+    # Параметры композиции (увеличено в 2 раза)
+    frame_width = 720  # Увеличено для карт с бо́льшим соотношением сторон
+    frame_height = 360  # Было 180
+    
+    # Вычисляем размер карт с учетом отступов
+    # Оставляем минимум 15px между картами и 20px по краям
+    min_padding_between = 15
+    min_padding_side = 20
+    total_padding = (min_padding_side * 2) + (min_padding_between * 2)  # 70px на отступы
+    available_width = frame_width - total_padding
+    
+    # Рассчитываем максимальный размер карты
+    max_card_width = available_width // 3
+    card_height = 320  # Базовая высота
+    card_width = int(card_height * aspect_ratio)
+    
+    # Если карты слишком широкие, уменьшаем их
+    if card_width > max_card_width:
+        card_width = max_card_width
+        card_height = int(card_width / aspect_ratio)
+    
+    # Пересчитываем отступы с финальными размерами карт
     total_cards_width = card_width * 3
     remaining_width = frame_width - total_cards_width
-    padding_between = remaining_width // 4  # 4 промежутка: слева, между картами (2), справа
+    padding_between = remaining_width // 4  # Равномерно распределяем оставшееся место
+    padding_top = (frame_height - card_height) // 2  # Центрируем по вертикали
     
     frames = []
     
@@ -589,18 +644,168 @@ def create_random_gif(cards_dir, output_path, num_cards=24, duration=83, loop=0,
     except Exception as e:
         print(f"Ошибка при создании GIF: {e}")
 
-if __name__ == "__main__":
-    # Пути к файлам
-    base_dir = "tarot/rider-waite"
-    cards_directory = os.path.join(base_dir, "720px")  # Используем правильную папку с картами
-    gif_directory = os.path.join(base_dir, "gif")
-    os.makedirs(gif_directory, exist_ok=True)
+def main():
+    """Основная функция с поддержкой аргументов командной строки"""
+    parser = argparse.ArgumentParser(
+        description='Создание GIF анимаций из карт таро',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Примеры использования:
+  # Создать GIF с одной картой для колоды Rider-Waite
+  python create_tarot_gif.py --source tarot/rider-waite/720px --output tarot/rider-waite/gif --type single
+  
+  # Создать GIF с тремя картами для колоды Soimoi
+  python create_tarot_gif.py -s tarot/soimoi/720px -o tarot/soimoi/gif -t three
+  
+  # Создать расклад Кельтский крест с настройками
+  python create_tarot_gif.py -s tarot/new_deck/images -o tarot/new_deck/gif -t celtic --frames 15 --duration 600
+  
+  # Создать оптимизированный GIF для Telegram
+  python create_tarot_gif.py -s tarot/rider-waite/720px -o tarot/rider-waite/gif -t telegram --pool 20
+  
+  # Создать случайный GIF из 30 карт
+  python create_tarot_gif.py -s tarot/soimoi/full -o tarot/soimoi/gif -t random --cards 30
+        """
+    )
     
-    # Создаем улучшенный GIF с раскладом Кельтский крест (10 карт)
-    create_celtic_cross_gif(
-        cards_dir=cards_directory,
-        output_path=os.path.join(gif_directory, "celtic_cross_improved.gif"),
-        num_frames=12,
-        duration=500,
-        loop=0
-    ) 
+    # Обязательные аргументы
+    parser.add_argument('-s', '--source', required=True,
+                        help='Папка с картами таро')
+    parser.add_argument('-o', '--output', required=True,
+                        help='Папка для сохранения GIF')
+    parser.add_argument('-t', '--type', required=True,
+                        choices=['single', 'three', 'celtic', 'telegram', 'random', 'all', 'filtered'],
+                        help='Тип создаваемого GIF')
+    
+    # Опциональные параметры
+    parser.add_argument('--name',
+                        help='Имя выходного файла (без расширения). По умолчанию используется тип GIF')
+    parser.add_argument('--frames', type=int,
+                        help='Количество кадров в анимации')
+    parser.add_argument('--duration', type=int, default=500,
+                        help='Длительность каждого кадра в мс (по умолчанию: 500)')
+    parser.add_argument('--pool', type=int,
+                        help='Размер пула карт для случайного выбора')
+    parser.add_argument('--cards', type=int,
+                        help='Количество карт для random типа')
+    parser.add_argument('--width', type=int,
+                        help='Ширина карт в пикселях')
+    parser.add_argument('--height', type=int,
+                        help='Высота карт в пикселях')
+    parser.add_argument('--loop', type=int, default=0,
+                        help='Количество повторений (0 = бесконечно)')
+    parser.add_argument('--filter',
+                        help='Фильтр для карт (для типа filtered). Например: "major" для старших арканов')
+    
+    args = parser.parse_args()
+    
+    # Проверка существования папок
+    if not os.path.exists(args.source):
+        print(f"❌ Папка с картами не найдена: {args.source}")
+        return
+    
+    # Создаем выходную папку если не существует
+    os.makedirs(args.output, exist_ok=True)
+    
+    # Определяем имя выходного файла
+    if args.name:
+        output_name = f"{args.name}.gif"
+    else:
+        output_name = f"{args.type}_cards.gif"
+    
+    output_path = os.path.join(args.output, output_name)
+    
+    print(f"🎯 Создание GIF типа '{args.type}'")
+    print(f"📁 Источник: {args.source}")
+    print(f"💾 Результат: {output_path}")
+    print("=" * 50)
+    
+    # Выполняем создание GIF в зависимости от типа
+    if args.type == 'single':
+        create_single_card_gif(
+            cards_dir=args.source,
+            output_path=output_path,
+            num_cards_pool=args.pool or 12,
+            num_frames=args.frames or 12,
+            duration=args.duration,
+            loop=args.loop
+        )
+    
+    elif args.type == 'three':
+        create_three_cards_gif(
+            cards_dir=args.source,
+            output_path=output_path,
+            num_cards_pool=args.pool or 36,
+            num_frames=args.frames or 30,
+            duration=args.duration,
+            loop=args.loop
+        )
+    
+    elif args.type == 'celtic':
+        create_celtic_cross_gif(
+            cards_dir=args.source,
+            output_path=output_path,
+            num_frames=args.frames or 12,
+            duration=args.duration,
+            loop=args.loop
+        )
+    
+    elif args.type == 'telegram':
+        create_telegram_optimized_gif(
+            cards_dir=args.source,
+            output_path=output_path,
+            num_cards_pool=args.pool or 12,
+            num_frames=args.frames or 10,
+            duration=args.duration if args.duration != 500 else 100,
+            loop=args.loop
+        )
+    
+    elif args.type == 'random':
+        create_random_gif(
+            cards_dir=args.source,
+            output_path=output_path,
+            num_cards=args.cards or 24,
+            duration=args.duration if args.duration != 500 else 83,
+            loop=args.loop,
+            resize_width=args.width or 200,
+            resize_height=args.height or 300
+        )
+    
+    elif args.type == 'all':
+        # Создаем стандартный GIF со всеми картами
+        create_tarot_gif(
+            cards_dir=args.source,
+            output_path=output_path,
+            duration=args.duration,
+            loop=args.loop,
+            resize_width=args.width or 400,
+            resize_height=args.height or 600
+        )
+    
+    elif args.type == 'filtered':
+        # Создаем GIF с фильтрацией
+        filter_func = None
+        if args.filter == 'major':
+            # Фильтр для старших арканов
+            filter_func = lambda f: 'rws_tarot_' in f.lower() and re.search(r'\d{2}', f)
+        elif args.filter == 'wands':
+            filter_func = lambda f: 'wands' in f.lower()
+        elif args.filter == 'cups':
+            filter_func = lambda f: 'cups' in f.lower()
+        elif args.filter == 'swords':
+            filter_func = lambda f: 'swords' in f.lower()
+        elif args.filter == 'pentacles':
+            filter_func = lambda f: 'pents' in f.lower() or 'pentacles' in f.lower()
+        
+        create_filtered_gif(
+            cards_dir=args.source,
+            output_path=output_path,
+            filter_func=filter_func,
+            duration=args.duration,
+            loop=args.loop
+        )
+    
+    print("\n✨ GIF успешно создан!")
+
+if __name__ == "__main__":
+    main() 
