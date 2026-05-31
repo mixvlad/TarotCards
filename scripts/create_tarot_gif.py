@@ -11,6 +11,20 @@ import glob
 import re
 import random
 
+
+def find_cards(cards_dir):
+    """Return sorted card image paths, matching common image extensions.
+
+    Decks are stored in different formats (Rider-Waite/Sola Busca as JPG,
+    Tarot de Marseille as PNG), so we look for all of them rather than
+    assuming .jpg.
+    """
+    files = []
+    for ext in ("*.jpg", "*.jpeg", "*.png"):
+        files.extend(glob.glob(os.path.join(cards_dir, ext)))
+    return sorted(files)
+
+
 def get_card_order(card_filename):
     """
     Определяет порядок карты для правильной сортировки
