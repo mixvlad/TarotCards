@@ -37,7 +37,9 @@
       "description": "Старейшая полностью иллюстрированная колода таро (Италия, ок. 1491)",
       "source_dir": "tarot/sola-busca",
       "full_size_dir": "tarot/sola-busca/full",
-      "resized_dirs": {},
+      "resized_dirs": {
+        "720px": "tarot/sola-busca/720px"
+      },
       "gif_dir": "tarot/sola-busca/gif",
       "card_count": 78,
       "card_format": "jpg",
@@ -51,7 +53,9 @@
       "description": "Классический Марсельский таро (историческая нумерация: VIII Справедливость, XI Сила)",
       "source_dir": "tarot/marseille",
       "full_size_dir": "tarot/marseille/full",
-      "resized_dirs": {},
+      "resized_dirs": {
+        "720px": "tarot/marseille/720px"
+      },
       "gif_dir": "tarot/marseille/gif",
       "card_count": 78,
       "card_format": "png",
