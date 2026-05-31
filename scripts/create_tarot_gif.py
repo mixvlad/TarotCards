@@ -70,7 +70,7 @@ def create_tarot_gif(cards_dir, output_path, duration=500, loop=0, resize_width=
     """
     
     # Получаем список всех JPG файлов карт
-    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))
+    card_files = find_cards(cards_dir)
     
     if not card_files:
         print(f"Не найдено карт в папке: {cards_dir}")
@@ -139,7 +139,7 @@ def create_filtered_gif(cards_dir, output_path, filter_func=None, duration=500, 
     """
     
     # Получаем список всех JPG файлов карт
-    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))
+    card_files = find_cards(cards_dir)
     
     if not card_files:
         print(f"Не найдено карт в папке: {cards_dir}")
@@ -194,7 +194,7 @@ def get_average_aspect_ratio(cards_dir):
     """
     Определяет среднее соотношение сторон карт в колоде
     """
-    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))[:10]  # Проверяем первые 10 карт
+    card_files = find_cards(cards_dir)[:10]  # Проверяем первые 10 карт
     if not card_files:
         return 0.6  # Значение по умолчанию
     
@@ -214,7 +214,7 @@ def create_single_card_gif(cards_dir, output_path, num_cards_pool=12, num_frames
     Создает GIF с одной меняющейся картой
     """
     # Получаем все доступные карты
-    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))
+    card_files = find_cards(cards_dir)
     
     # Исключаем обложки из выборки
     card_files = [f for f in card_files if 'Cover' not in os.path.basename(f)]
@@ -292,7 +292,7 @@ def create_celtic_cross_gif(cards_dir, output_path, num_frames=12, duration=500,
     Каждый кадр показывает разные карты в позициях расклада
     """
     # Получаем все доступные карты
-    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))
+    card_files = find_cards(cards_dir)
     
     # Исключаем обложки из выборки
     card_files = [f for f in card_files if 'Cover' not in os.path.basename(f)]
@@ -412,7 +412,7 @@ def create_telegram_optimized_gif(cards_dir, output_path, num_cards_pool=12, num
     Telegram лучше распознает GIF с определенными параметрами
     """
     # Получаем все доступные карты
-    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))
+    card_files = find_cards(cards_dir)
     
     # Исключаем обложки из выборки
     card_files = [f for f in card_files if 'Cover' not in os.path.basename(f)]
@@ -509,7 +509,7 @@ def create_three_cards_gif(cards_dir, output_path, num_cards_pool=36, num_frames
         loop (int): Количество повторений (0 = бесконечно)
     """
     # Получаем все доступные карты
-    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))
+    card_files = find_cards(cards_dir)
     
     # Исключаем обложки из выборки
     card_files = [f for f in card_files if 'Cover' not in os.path.basename(f)]
@@ -609,7 +609,7 @@ def create_random_gif(cards_dir, output_path, num_cards=24, duration=83, loop=0,
     """
     Создает GIF из случайных карт в случайном порядке
     """
-    card_files = glob.glob(os.path.join(cards_dir, "*.jpg"))
+    card_files = find_cards(cards_dir)
     if len(card_files) < num_cards:
         print(f"Недостаточно карт для выбора: найдено {len(card_files)}, требуется {num_cards}")
         return
