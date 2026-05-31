@@ -1,0 +1,633 @@
+{
+  "name": "Tarot de Marseille",
+  "source": "Wikimedia Commons",
+  "category": "https://commons.wikimedia.org/wiki/Category:Tarot%20de%20Marseille%20%28Single%20Cards%29",
+  "note": "Classic Tarot de Marseille. Trump order is the historical one (VIII Justice, XI Force) - the reverse of Rider-Waite.",
+  "card_count": 78,
+  "cards": [
+    {
+      "card": "00_Le_Mat.png",
+      "source_file": "TT Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:TT_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "01_Le_Bateleur.png",
+      "source_file": "T1 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T1_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "02_La_Papesse.png",
+      "source_file": "T2 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T2_Tarot.png",
+      "width": 814,
+      "height": 1536
+    },
+    {
+      "card": "03_L_Imperatrice.png",
+      "source_file": "T3 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T3_Tarot.png",
+      "width": 814,
+      "height": 1536
+    },
+    {
+      "card": "04_L_Empereur.png",
+      "source_file": "T4 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T4_Tarot.png",
+      "width": 814,
+      "height": 1536
+    },
+    {
+      "card": "05_Le_Pape.png",
+      "source_file": "T5 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T5_Tarot.png",
+      "width": 812,
+      "height": 1536
+    },
+    {
+      "card": "06_L_Amoureux.png",
+      "source_file": "T6 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T6_Tarot.png",
+      "width": 816,
+      "height": 1536
+    },
+    {
+      "card": "07_Le_Chariot.png",
+      "source_file": "T7 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T7_Tarot.png",
+      "width": 816,
+      "height": 1536
+    },
+    {
+      "card": "08_La_Justice.png",
+      "source_file": "T8 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T8_Tarot.png",
+      "width": 816,
+      "height": 1536
+    },
+    {
+      "card": "09_L_Ermite.png",
+      "source_file": "T9 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T9_Tarot.png",
+      "width": 821,
+      "height": 1536
+    },
+    {
+      "card": "10_La_Roue_de_Fortune.png",
+      "source_file": "T10 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T10_Tarot.png",
+      "width": 812,
+      "height": 1536
+    },
+    {
+      "card": "11_La_Force.png",
+      "source_file": "T11 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T11_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "12_Le_Pendu.png",
+      "source_file": "T12 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T12_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "13_La_Mort.png",
+      "source_file": "T13 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T13_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "14_Temperance.png",
+      "source_file": "T14 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T14_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "15_Le_Diable.png",
+      "source_file": "T15 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T15_Tarot.png",
+      "width": 820,
+      "height": 1536
+    },
+    {
+      "card": "16_La_Maison_Dieu.png",
+      "source_file": "T16 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T16_Tarot.png",
+      "width": 814,
+      "height": 1536
+    },
+    {
+      "card": "17_L_Etoile.png",
+      "source_file": "T17 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T17_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "18_La_Lune.png",
+      "source_file": "T18 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T18_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "19_Le_Soleil.png",
+      "source_file": "T19 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T19_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "20_Le_Jugement.png",
+      "source_file": "T20 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T20_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "21_Le_Monde.png",
+      "source_file": "T21 Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:T21_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Cups01.png",
+      "source_file": "1C Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1C_Tarot.png",
+      "width": 809,
+      "height": 1537
+    },
+    {
+      "card": "Cups02.png",
+      "source_file": "2C Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2C_Tarot.png",
+      "width": 809,
+      "height": 1537
+    },
+    {
+      "card": "Cups03.png",
+      "source_file": "3C Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:3C_Tarot.png",
+      "width": 805,
+      "height": 1536
+    },
+    {
+      "card": "Cups04.png",
+      "source_file": "4C Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:4C_Tarot.png",
+      "width": 806,
+      "height": 1536
+    },
+    {
+      "card": "Cups05.png",
+      "source_file": "5C Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5C_Tarot.png",
+      "width": 814,
+      "height": 1536
+    },
+    {
+      "card": "Cups06.png",
+      "source_file": "6C Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:6C_Tarot.png",
+      "width": 805,
+      "height": 1536
+    },
+    {
+      "card": "Cups07.png",
+      "source_file": "7C Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:7C_Tarot.png",
+      "width": 811,
+      "height": 1537
+    },
+    {
+      "card": "Cups08.png",
+      "source_file": "8C Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:8C_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Cups09.png",
+      "source_file": "9C Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:9C_Tarot.png",
+      "width": 817,
+      "height": 1536
+    },
+    {
+      "card": "Cups10.png",
+      "source_file": "10C Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:10C_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Cups11.png",
+      "source_file": "HC Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:HC_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Cups12.png",
+      "source_file": "JC Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:JC_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Cups13.png",
+      "source_file": "QC Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:QC_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Cups14.png",
+      "source_file": "KC Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:KC_Tarot.png",
+      "width": 812,
+      "height": 1536
+    },
+    {
+      "card": "Pents01.png",
+      "source_file": "1P Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1P_Tarot.png",
+      "width": 805,
+      "height": 1536
+    },
+    {
+      "card": "Pents02.png",
+      "source_file": "2P Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2P_Tarot.png",
+      "width": 809,
+      "height": 1536
+    },
+    {
+      "card": "Pents03.png",
+      "source_file": "3P Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:3P_Tarot.png",
+      "width": 812,
+      "height": 1536
+    },
+    {
+      "card": "Pents04.png",
+      "source_file": "4P Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:4P_Tarot.png",
+      "width": 811,
+      "height": 1536
+    },
+    {
+      "card": "Pents05.png",
+      "source_file": "5P Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5P_Tarot.png",
+      "width": 808,
+      "height": 1536
+    },
+    {
+      "card": "Pents06.png",
+      "source_file": "6P Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:6P_Tarot.png",
+      "width": 810,
+      "height": 1536
+    },
+    {
+      "card": "Pents07.png",
+      "source_file": "7P Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:7P_Tarot.png",
+      "width": 808,
+      "height": 1537
+    },
+    {
+      "card": "Pents08.png",
+      "source_file": "8P Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:8P_Tarot.png",
+      "width": 808,
+      "height": 1537
+    },
+    {
+      "card": "Pents09.png",
+      "source_file": "9P Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:9P_Tarot.png",
+      "width": 809,
+      "height": 1536
+    },
+    {
+      "card": "Pents10.png",
+      "source_file": "10P Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:10P_Tarot.png",
+      "width": 809,
+      "height": 1536
+    },
+    {
+      "card": "Pents11.png",
+      "source_file": "HP Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:HP_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Pents12.png",
+      "source_file": "JP Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:JP_Tarot.png",
+      "width": 810,
+      "height": 1536
+    },
+    {
+      "card": "Pents13.png",
+      "source_file": "QP Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:QP_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Pents14.png",
+      "source_file": "KP Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:KP_Tarot.png",
+      "width": 805,
+      "height": 1536
+    },
+    {
+      "card": "Swords01.png",
+      "source_file": "1S Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1S_Tarot.png",
+      "width": 818,
+      "height": 1536
+    },
+    {
+      "card": "Swords02.png",
+      "source_file": "2S Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2S_Tarot.png",
+      "width": 811,
+      "height": 1537
+    },
+    {
+      "card": "Swords03.png",
+      "source_file": "3S Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:3S_Tarot.png",
+      "width": 805,
+      "height": 1536
+    },
+    {
+      "card": "Swords04.png",
+      "source_file": "4S Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:4S_Tarot.png",
+      "width": 809,
+      "height": 1536
+    },
+    {
+      "card": "Swords05.png",
+      "source_file": "5S Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5S_Tarot.png",
+      "width": 809,
+      "height": 1537
+    },
+    {
+      "card": "Swords06.png",
+      "source_file": "6S Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:6S_Tarot.png",
+      "width": 817,
+      "height": 1536
+    },
+    {
+      "card": "Swords07.png",
+      "source_file": "7S Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:7S_Tarot.png",
+      "width": 812,
+      "height": 1536
+    },
+    {
+      "card": "Swords08.png",
+      "source_file": "8S Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:8S_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Swords09.png",
+      "source_file": "9S Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:9S_Tarot.png",
+      "width": 817,
+      "height": 1536
+    },
+    {
+      "card": "Swords10.png",
+      "source_file": "10S Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:10S_Tarot.png",
+      "width": 812,
+      "height": 1536
+    },
+    {
+      "card": "Swords11.png",
+      "source_file": "HS Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:HS_Tarot.png",
+      "width": 819,
+      "height": 1536
+    },
+    {
+      "card": "Swords12.png",
+      "source_file": "JS Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:JS_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Swords13.png",
+      "source_file": "QS Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:QS_Tarot.png",
+      "width": 817,
+      "height": 1537
+    },
+    {
+      "card": "Swords14.png",
+      "source_file": "KS Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:KS_Tarot.png",
+      "width": 817,
+      "height": 1537
+    },
+    {
+      "card": "Wands01.png",
+      "source_file": "1B Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1B_Tarot.png",
+      "width": 816,
+      "height": 1536
+    },
+    {
+      "card": "Wands02.png",
+      "source_file": "2B Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2B_Tarot.png",
+      "width": 816,
+      "height": 1536
+    },
+    {
+      "card": "Wands03.png",
+      "source_file": "3B Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:3B_Tarot.png",
+      "width": 816,
+      "height": 1536
+    },
+    {
+      "card": "Wands04.png",
+      "source_file": "4B Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:4B_Tarot.png",
+      "width": 816,
+      "height": 1536
+    },
+    {
+      "card": "Wands05.png",
+      "source_file": "5B Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5B_Tarot.png",
+      "width": 815,
+      "height": 1536
+    },
+    {
+      "card": "Wands06.png",
+      "source_file": "6B Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:6B_Tarot.png",
+      "width": 815,
+      "height": 1536
+    },
+    {
+      "card": "Wands07.png",
+      "source_file": "7B Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:7B_Tarot.png",
+      "width": 815,
+      "height": 1536
+    },
+    {
+      "card": "Wands08.png",
+      "source_file": "8B Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:8B_Tarot.png",
+      "width": 815,
+      "height": 1536
+    },
+    {
+      "card": "Wands09.png",
+      "source_file": "9B Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:9B_Tarot.png",
+      "width": 814,
+      "height": 1536
+    },
+    {
+      "card": "Wands10.png",
+      "source_file": "10B Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:10B_Tarot.png",
+      "width": 813,
+      "height": 1536
+    },
+    {
+      "card": "Wands11.png",
+      "source_file": "HB Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:HB_Tarot.png",
+      "width": 806,
+      "height": 1536
+    },
+    {
+      "card": "Wands12.png",
+      "source_file": "JB Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:JB_Tarot.png",
+      "width": 817,
+      "height": 1536
+    },
+    {
+      "card": "Wands13.png",
+      "source_file": "QB Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:QB_Tarot.png",
+      "width": 812,
+      "height": 1536
+    },
+    {
+      "card": "Wands14.png",
+      "source_file": "KB Tarot.png",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:KB_Tarot.png",
+      "width": 810,
+      "height": 1536
+    }
+  ]
+}

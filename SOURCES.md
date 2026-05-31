@@ -26,6 +26,48 @@ While the images are in the public domain, it's good practice to acknowledge:
 - **Publisher**: Rider & Company
 - **Year**: 1909
 
+## Sola Busca Tarot Deck
+
+### Source Information
+- **Original Artist**: Unknown (attributed to the workshop of Nicola di maestro Antonio)
+- **Origin**: Italy, c. 1491
+- **Current Source**: Wikimedia Commons — [Category:Sola-Busca tarot deck](https://commons.wikimedia.org/wiki/Category:Sola-Busca_tarot_deck)
+- **License**: Public Domain (published before 1931)
+- **Download Method**: `scripts/download_commons_deck.py --deck sola-busca` (Wikimedia Commons API)
+
+### Image Details
+- **Cards**: 78 (`00.jpg`–`77.jpg`; trumps 00–21, pip/court cards 22–77)
+- **Format**: JPG, ~474×877 px
+
+### Copyright Status
+Created in the late 15th century; the deck and faithful photographic reproductions
+of it are in the public domain. The Sola Busca is the earliest known fully
+illustrated 78-card tarot and directly influenced the Rider-Waite-Smith deck.
+
+### Attribution Requirements
+Public domain — attribution to Wikimedia Commons is appreciated but not required.
+
+## Tarot de Marseille
+
+### Source Information
+- **Tradition**: Tarot de Marseille (classic French pattern)
+- **Current Source**: Wikimedia Commons — [Category:Tarot de Marseille (Single Cards)](https://commons.wikimedia.org/wiki/Category:Tarot_de_Marseille_(Single_Cards))
+- **License**: Public Domain (every downloaded file verified as PD via the Commons API)
+- **Download Method**: `scripts/download_commons_deck.py --deck marseille`
+
+### Image Details
+- **Cards**: 78 (22 trumps + 56 minor arcana)
+- **Format**: PNG, ~200×351 px (clean reconstructions)
+- **Note**: Uses the **historical Marseille trump numbering** — VIII is Justice
+  (`08_La_Justice`) and XI is Force (`11_La_Force`), the reverse of Rider-Waite.
+
+### Copyright Status
+The Tarot de Marseille pattern dates to the 17th–18th centuries and is in the
+public domain. Each file's licence is checked individually at download time.
+
+### Attribution Requirements
+Public domain — attribution to Wikimedia Commons is appreciated but not required.
+
 ## Future Decks
 
 When adding new decks to this repository, please include the following information in this file:

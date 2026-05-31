@@ -21,6 +21,20 @@ This repository contains various tarot card decks sourced from public domain and
 - **Description**: Alternative tarot deck collection
 - **Format**: JPG images in full resolution
 
+### Sola Busca Tarot Deck
+- **Location**: `tarot/sola-busca/`
+- **Source**: Wikimedia Commons
+- **License**: Public Domain
+- **Description**: The earliest known fully illustrated 78-card tarot (Italy, c. 1491) and a direct influence on the Rider-Waite-Smith deck.
+- **Format**: 78 JPG cards (`00.jpg`–`77.jpg`; trumps 00–21, pips/courts 22–77)
+
+### Tarot de Marseille
+- **Location**: `tarot/marseille/`
+- **Source**: Wikimedia Commons
+- **License**: Public Domain
+- **Description**: The classic French Tarot de Marseille pattern. Uses the historical trump numbering (VIII Justice, XI Force) — the reverse of Rider-Waite.
+- **Format**: 78 PNG cards (22 trumps + 56 minor arcana)
+
 ## Repository Structure
 
 ```
@@ -35,11 +49,18 @@ TarotCards/
 │   │   ├── full/         # Original downloads
 │   │   ├── gif/          # Generated GIF animations
 │   │   └── metadata.json
-│   └── soimoi/
-│       └── full/         # Full resolution cards
+│   ├── soimoi/
+│   │   └── full/         # Full resolution cards
+│   ├── sola-busca/       # Sola Busca deck (Wikimedia Commons, PD)
+│   │   ├── full/
+│   │   └── metadata.json
+│   └── marseille/        # Tarot de Marseille (Wikimedia Commons, PD)
+│       ├── full/
+│       └── metadata.json
 ├── decks_config.json      # Configuration file for all decks
 └── scripts/
     ├── download_tarot_cards.py
+    ├── download_commons_deck.py
     ├── resize_cards.py
     ├── create_tarot_gif.py
     ├── convert_to_jpg.py
@@ -76,6 +97,25 @@ python scripts/download_tarot_cards.py
 - Handles Major and Minor Arcana cards
 - Automatic retry on failed downloads
 - Progress tracking
+
+### 1b. download_commons_deck.py
+**Purpose**: Downloads complete public-domain decks straight from the Wikimedia Commons API, verifying each file's licence and recording it in `metadata.json`.
+
+**Usage**:
+```bash
+# List the decks this script knows how to fetch
+python scripts/download_commons_deck.py --list
+
+# Download a full deck (saved to tarot/<deck>/full/)
+python scripts/download_commons_deck.py --deck sola-busca
+python scripts/download_commons_deck.py --deck marseille
+```
+
+**Features**:
+- Pulls original-resolution images and per-file licence via the Commons API
+- Skips any file whose licence is not free (never assumes public domain)
+- Writes `tarot/<deck>/metadata.json` with source URL, licence and dimensions per card
+- Faithful per-deck naming (e.g. Marseille keeps the historical VIII Justice / XI Force order)
 
 ### 2. resize_cards.py
 **Purpose**: Universal script for resizing tarot card images to different resolutions.

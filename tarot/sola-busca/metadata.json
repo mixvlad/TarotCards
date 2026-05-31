@@ -1,0 +1,633 @@
+{
+  "name": "Sola Busca",
+  "source": "Wikimedia Commons",
+  "category": "https://commons.wikimedia.org/wiki/Category:Sola-Busca%20tarot%20deck",
+  "note": "Earliest fully-illustrated 78-card tarot (Italy, c.1491). Trumps 00-21, pips/courts 22-77; non-standard imagery.",
+  "card_count": 78,
+  "cards": [
+    {
+      "card": "00.jpg",
+      "source_file": "Sola Busca tarot card 00.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_00.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "01.jpg",
+      "source_file": "Sola Busca tarot card 01.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_01.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "02.jpg",
+      "source_file": "Sola Busca tarot card 02.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_02.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "03.jpg",
+      "source_file": "Sola Busca tarot card 03.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_03.jpg",
+      "width": 474,
+      "height": 876
+    },
+    {
+      "card": "04.jpg",
+      "source_file": "Sola Busca tarot card 04.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_04.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "05.jpg",
+      "source_file": "Sola Busca tarot card 05.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_05.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "06.jpg",
+      "source_file": "Sola Busca tarot card 06.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_06.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "07.jpg",
+      "source_file": "Sola Busca tarot card 07.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_07.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "08.jpg",
+      "source_file": "Sola Busca tarot card 08.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_08.jpg",
+      "width": 474,
+      "height": 876
+    },
+    {
+      "card": "09.jpg",
+      "source_file": "Sola Busca tarot card 09.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_09.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "10.jpg",
+      "source_file": "Sola Busca tarot card 10.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_10.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "11.jpg",
+      "source_file": "Sola Busca tarot card 11.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_11.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "12.jpg",
+      "source_file": "Sola Busca tarot card 12.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_12.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "13.jpg",
+      "source_file": "Sola Busca tarot card 13.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_13.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "14.jpg",
+      "source_file": "Sola Busca tarot card 14.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_14.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "15.jpg",
+      "source_file": "Sola Busca tarot card 15.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_15.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "16.jpg",
+      "source_file": "Sola Busca tarot card 16.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_16.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "17.jpg",
+      "source_file": "Sola Busca tarot card 17.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_17.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "18.jpg",
+      "source_file": "Sola Busca tarot card 18.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_18.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "19.jpg",
+      "source_file": "Sola Busca tarot card 19.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_19.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "20.jpg",
+      "source_file": "Sola Busca tarot card 20.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_20.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "21.jpg",
+      "source_file": "Sola Busca tarot card 21.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_21.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "22.jpg",
+      "source_file": "Sola Busca tarot card 22.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_22.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "23.jpg",
+      "source_file": "Sola Busca tarot card 23.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_23.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "24.jpg",
+      "source_file": "Sola Busca tarot card 24.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_24.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "25.jpg",
+      "source_file": "Sola Busca tarot card 25.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_25.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "26.jpg",
+      "source_file": "Sola Busca tarot card 26.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_26.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "27.jpg",
+      "source_file": "Sola Busca tarot card 27.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_27.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "28.jpg",
+      "source_file": "Sola Busca tarot card 28.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_28.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "29.jpg",
+      "source_file": "Sola Busca tarot card 29.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_29.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "30.jpg",
+      "source_file": "Sola Busca tarot card 30.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_30.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "31.jpg",
+      "source_file": "Sola Busca tarot card 31.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_31.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "32.jpg",
+      "source_file": "Sola Busca tarot card 32.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_32.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "33.jpg",
+      "source_file": "Sola Busca tarot card 33.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_33.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "34.jpg",
+      "source_file": "Sola Busca tarot card 34.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_34.jpg",
+      "width": 474,
+      "height": 876
+    },
+    {
+      "card": "35.jpg",
+      "source_file": "Sola Busca tarot card 35.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_35.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "36.jpg",
+      "source_file": "Sola Busca tarot card 36.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_36.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "37.jpg",
+      "source_file": "Sola Busca tarot card 37.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_37.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "38.jpg",
+      "source_file": "Sola Busca tarot card 38.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_38.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "39.jpg",
+      "source_file": "Sola Busca tarot card 39.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_39.jpg",
+      "width": 474,
+      "height": 876
+    },
+    {
+      "card": "40.jpg",
+      "source_file": "Sola Busca tarot card 40.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_40.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "41.jpg",
+      "source_file": "Sola Busca tarot card 41.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_41.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "42.jpg",
+      "source_file": "Sola Busca tarot card 42.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_42.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "43.jpg",
+      "source_file": "Sola Busca tarot card 43.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_43.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "44.jpg",
+      "source_file": "Sola Busca tarot card 44.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_44.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "45.jpg",
+      "source_file": "Sola Busca tarot card 45.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_45.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "46.jpg",
+      "source_file": "Sola Busca tarot card 46.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_46.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "47.jpg",
+      "source_file": "Sola Busca tarot card 47.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_47.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "48.jpg",
+      "source_file": "Sola Busca tarot card 48.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_48.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "49.jpg",
+      "source_file": "Sola Busca tarot card 49.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_49.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "50.jpg",
+      "source_file": "Sola Busca tarot card 50.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_50.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "51.jpg",
+      "source_file": "Sola Busca tarot card 51.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_51.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "52.jpg",
+      "source_file": "Sola Busca tarot card 52.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_52.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "53.jpg",
+      "source_file": "Sola Busca tarot card 53.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_53.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "54.jpg",
+      "source_file": "Sola Busca tarot card 54.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_54.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "55.jpg",
+      "source_file": "Sola Busca tarot card 55.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_55.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "56.jpg",
+      "source_file": "Sola Busca tarot card 56.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_56.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "57.jpg",
+      "source_file": "Sola Busca tarot card 57.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_57.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "58.jpg",
+      "source_file": "Sola Busca tarot card 58.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_58.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "59.jpg",
+      "source_file": "Sola Busca tarot card 59.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_59.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "60.jpg",
+      "source_file": "Sola Busca tarot card 60.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_60.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "61.jpg",
+      "source_file": "Sola Busca tarot card 61.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_61.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "62.jpg",
+      "source_file": "Sola Busca tarot card 62.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_62.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "63.jpg",
+      "source_file": "Sola Busca tarot card 63.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_63.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "64.jpg",
+      "source_file": "Sola Busca tarot card 64.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_64.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "65.jpg",
+      "source_file": "Sola Busca tarot card 65.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_65.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "66.jpg",
+      "source_file": "Sola Busca tarot card 66.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_66.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "67.jpg",
+      "source_file": "Sola Busca tarot card 67.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_67.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "68.jpg",
+      "source_file": "Sola Busca tarot card 68.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_68.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "69.jpg",
+      "source_file": "Sola Busca tarot card 69.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_69.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "70.jpg",
+      "source_file": "Sola Busca tarot card 70.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_70.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "71.jpg",
+      "source_file": "Sola Busca tarot card 71.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_71.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "72.jpg",
+      "source_file": "Sola Busca tarot card 72.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_72.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "73.jpg",
+      "source_file": "Sola Busca tarot card 73.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_73.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "74.jpg",
+      "source_file": "Sola Busca tarot card 74.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_74.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "75.jpg",
+      "source_file": "Sola Busca tarot card 75.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_75.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "76.jpg",
+      "source_file": "Sola Busca tarot card 76.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_76.jpg",
+      "width": 474,
+      "height": 877
+    },
+    {
+      "card": "77.jpg",
+      "source_file": "Sola Busca tarot card 77.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sola_Busca_tarot_card_77.jpg",
+      "width": 474,
+      "height": 877
+    }
+  ]
+}
