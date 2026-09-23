@@ -1,0 +1,641 @@
+{
+  "name": "Tarot Nouveau",
+  "source": "Wikimedia Commons",
+  "category": "https://commons.wikimedia.org/wiki/Category:Tarot%20nouveau%20-%20Grimaud%20-%201898",
+  "note": "French-suited game tarot (Grimaud, 1898), BnF scans. Trumps 01-21 are genre scenes, 00 is the Excuse; suits Hearts/Diamonds/Clubs/Spades.",
+  "card_count": 78,
+  "cards": [
+    {
+      "card": "00_Excuse.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - Excuse.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_Excuse.jpg",
+      "width": 1536,
+      "height": 2663
+    },
+    {
+      "card": "01_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 01.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_01.jpg",
+      "width": 1494,
+      "height": 2645
+    },
+    {
+      "card": "02_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 02.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_02.jpg",
+      "width": 1494,
+      "height": 2639
+    },
+    {
+      "card": "03_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 03.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_03.jpg",
+      "width": 1494,
+      "height": 2639
+    },
+    {
+      "card": "04_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 04.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_04.jpg",
+      "width": 1488,
+      "height": 2645
+    },
+    {
+      "card": "05_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 05.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_05.jpg",
+      "width": 1488,
+      "height": 2642
+    },
+    {
+      "card": "06_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 06.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_06.jpg",
+      "width": 1488,
+      "height": 2642
+    },
+    {
+      "card": "07_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 07.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_07.jpg",
+      "width": 1488,
+      "height": 2654
+    },
+    {
+      "card": "08_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 08.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_08.jpg",
+      "width": 1488,
+      "height": 2645
+    },
+    {
+      "card": "09_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 09.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_09.jpg",
+      "width": 1488,
+      "height": 2642
+    },
+    {
+      "card": "10_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 10.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_10.jpg",
+      "width": 1488,
+      "height": 2642
+    },
+    {
+      "card": "11_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 11.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_11.jpg",
+      "width": 1482,
+      "height": 2642
+    },
+    {
+      "card": "12_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 12.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_12.jpg",
+      "width": 1482,
+      "height": 2642
+    },
+    {
+      "card": "13_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 13.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_13.jpg",
+      "width": 1488,
+      "height": 2642
+    },
+    {
+      "card": "14_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 14.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_14.jpg",
+      "width": 1503,
+      "height": 2664
+    },
+    {
+      "card": "15_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 15.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_15.jpg",
+      "width": 1497,
+      "height": 2664
+    },
+    {
+      "card": "16_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 16.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_16.jpg",
+      "width": 1491,
+      "height": 2646
+    },
+    {
+      "card": "17_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 17.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_17.jpg",
+      "width": 1485,
+      "height": 2637
+    },
+    {
+      "card": "18_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 18.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_18.jpg",
+      "width": 1500,
+      "height": 2643
+    },
+    {
+      "card": "19_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 19.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_19.jpg",
+      "width": 1485,
+      "height": 2643
+    },
+    {
+      "card": "20_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 20.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_20.jpg",
+      "width": 1497,
+      "height": 2646
+    },
+    {
+      "card": "21_Atout.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Trumps - 21.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Trumps_-_21.jpg",
+      "width": 1497,
+      "height": 2646
+    },
+    {
+      "card": "Clubs01.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - Ace.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Ace.jpg",
+      "width": 1510,
+      "height": 2673
+    },
+    {
+      "card": "Clubs02.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 02.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_02.jpg",
+      "width": 1507,
+      "height": 2673
+    },
+    {
+      "card": "Clubs03.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 03.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_03.jpg",
+      "width": 1543,
+      "height": 2670
+    },
+    {
+      "card": "Clubs04.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 04.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_04.jpg",
+      "width": 1516,
+      "height": 2670
+    },
+    {
+      "card": "Clubs05.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 05.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_05.jpg",
+      "width": 1486,
+      "height": 2661
+    },
+    {
+      "card": "Clubs06.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 06.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_06.jpg",
+      "width": 1486,
+      "height": 2661
+    },
+    {
+      "card": "Clubs07.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 07.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_07.jpg",
+      "width": 1486,
+      "height": 2679
+    },
+    {
+      "card": "Clubs08.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 08.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_08.jpg",
+      "width": 1501,
+      "height": 2679
+    },
+    {
+      "card": "Clubs09.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 09.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_09.jpg",
+      "width": 1504,
+      "height": 2679
+    },
+    {
+      "card": "Clubs10.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - 10.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_10.jpg",
+      "width": 1504,
+      "height": 2679
+    },
+    {
+      "card": "Clubs11.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - Jack.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Jack.jpg",
+      "width": 1507,
+      "height": 2673
+    },
+    {
+      "card": "Clubs12.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - Knight.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Knight.jpg",
+      "width": 1525,
+      "height": 2661
+    },
+    {
+      "card": "Clubs13.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - Queen.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_Queen.jpg",
+      "width": 1525,
+      "height": 2676
+    },
+    {
+      "card": "Clubs14.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Clubs - King.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Clubs_-_King.jpg",
+      "width": 1525,
+      "height": 2676
+    },
+    {
+      "card": "Cover.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Back side.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Back_side.jpg",
+      "width": 1498,
+      "height": 2640
+    },
+    {
+      "card": "Diamonds01.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - Ace.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Ace.jpg",
+      "width": 1510,
+      "height": 2670
+    },
+    {
+      "card": "Diamonds02.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 02.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_02.jpg",
+      "width": 1540,
+      "height": 2715
+    },
+    {
+      "card": "Diamonds03.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 03.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_03.jpg",
+      "width": 1546,
+      "height": 2724
+    },
+    {
+      "card": "Diamonds04.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 04.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_04.jpg",
+      "width": 1540,
+      "height": 2676
+    },
+    {
+      "card": "Diamonds05.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 05.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_05.jpg",
+      "width": 1510,
+      "height": 2676
+    },
+    {
+      "card": "Diamonds06.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 06.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_06.jpg",
+      "width": 1564,
+      "height": 2700
+    },
+    {
+      "card": "Diamonds07.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 07.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_07.jpg",
+      "width": 1561,
+      "height": 2673
+    },
+    {
+      "card": "Diamonds08.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 08.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_08.jpg",
+      "width": 1549,
+      "height": 2703
+    },
+    {
+      "card": "Diamonds09.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 09.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_09.jpg",
+      "width": 1552,
+      "height": 2664
+    },
+    {
+      "card": "Diamonds10.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - 10.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_10.jpg",
+      "width": 1531,
+      "height": 2670
+    },
+    {
+      "card": "Diamonds11.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - Jack.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Jack.jpg",
+      "width": 1486,
+      "height": 2652
+    },
+    {
+      "card": "Diamonds12.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - Knight.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Knight.jpg",
+      "width": 1534,
+      "height": 2679
+    },
+    {
+      "card": "Diamonds13.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - Queen.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_Queen.jpg",
+      "width": 1531,
+      "height": 2670
+    },
+    {
+      "card": "Diamonds14.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Diamonds - King.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Diamonds_-_King.jpg",
+      "width": 1516,
+      "height": 2688
+    },
+    {
+      "card": "Hearts01.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - Ace.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Ace.jpg",
+      "width": 1536,
+      "height": 2673
+    },
+    {
+      "card": "Hearts02.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 02.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_02.jpg",
+      "width": 1494,
+      "height": 2649
+    },
+    {
+      "card": "Hearts03.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 03.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_03.jpg",
+      "width": 1488,
+      "height": 2655
+    },
+    {
+      "card": "Hearts04.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 04.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_04.jpg",
+      "width": 1482,
+      "height": 2649
+    },
+    {
+      "card": "Hearts05.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 05.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_05.jpg",
+      "width": 1509,
+      "height": 2679
+    },
+    {
+      "card": "Hearts06.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 06.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_06.jpg",
+      "width": 1581,
+      "height": 2703
+    },
+    {
+      "card": "Hearts07.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 07.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_07.jpg",
+      "width": 1569,
+      "height": 2706
+    },
+    {
+      "card": "Hearts08.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 08.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_08.jpg",
+      "width": 1557,
+      "height": 2694
+    },
+    {
+      "card": "Hearts09.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 09.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_09.jpg",
+      "width": 1533,
+      "height": 2685
+    },
+    {
+      "card": "Hearts10.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - 10.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_10.jpg",
+      "width": 1521,
+      "height": 2685
+    },
+    {
+      "card": "Hearts11.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - Jack.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Jack.jpg",
+      "width": 1497,
+      "height": 2643
+    },
+    {
+      "card": "Hearts12.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - Knight.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Knight.jpg",
+      "width": 1482,
+      "height": 2646
+    },
+    {
+      "card": "Hearts13.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - Queen.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_Queen.jpg",
+      "width": 1491,
+      "height": 2649
+    },
+    {
+      "card": "Hearts14.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Hearts - King.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Hearts_-_King.jpg",
+      "width": 1491,
+      "height": 2649
+    },
+    {
+      "card": "Spades01.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - Ace.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Ace.jpg",
+      "width": 1494,
+      "height": 2658
+    },
+    {
+      "card": "Spades02.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 02.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_02.jpg",
+      "width": 1485,
+      "height": 2646
+    },
+    {
+      "card": "Spades03.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 03.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_03.jpg",
+      "width": 1506,
+      "height": 2652
+    },
+    {
+      "card": "Spades04.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 04.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_04.jpg",
+      "width": 1488,
+      "height": 2652
+    },
+    {
+      "card": "Spades05.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 05.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_05.jpg",
+      "width": 1488,
+      "height": 2652
+    },
+    {
+      "card": "Spades06.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 06.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_06.jpg",
+      "width": 1488,
+      "height": 2652
+    },
+    {
+      "card": "Spades07.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 07.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_07.jpg",
+      "width": 1494,
+      "height": 2652
+    },
+    {
+      "card": "Spades08.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 08.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_08.jpg",
+      "width": 1494,
+      "height": 2643
+    },
+    {
+      "card": "Spades09.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 09.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_09.jpg",
+      "width": 1485,
+      "height": 2646
+    },
+    {
+      "card": "Spades10.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - 10.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_10.jpg",
+      "width": 1491,
+      "height": 2652
+    },
+    {
+      "card": "Spades11.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - Jack.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Jack.jpg",
+      "width": 1488,
+      "height": 2649
+    },
+    {
+      "card": "Spades12.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - Knight.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Knight.jpg",
+      "width": 1488,
+      "height": 2649
+    },
+    {
+      "card": "Spades13.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - Queen.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_Queen.jpg",
+      "width": 1518,
+      "height": 2667
+    },
+    {
+      "card": "Spades14.jpg",
+      "source_file": "Tarot nouveau - Grimaud - 1898 - Spades - King.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tarot_nouveau_-_Grimaud_-_1898_-_Spades_-_King.jpg",
+      "width": 1485,
+      "height": 2646
+    }
+  ]
+}
