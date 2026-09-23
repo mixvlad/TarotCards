@@ -1,0 +1,609 @@
+{
+  "name": "Grand Etteilla",
+  "source": "Wikimedia Commons",
+  "category": "https://commons.wikimedia.org/wiki/Category:Etteilla%20I%20tarot%20deck",
+  "note": "Divinatory tarot in Etteilla's system (H. Pussey edition, Paris, c.1880-1890), BnF scans. Own 1-78 numbering; 75 cards (16 and 17 at lower resolution; 49, 63 and 78 are missing on Commons).",
+  "card_count": 75,
+  "cards": [
+    {
+      "card": "01_Etteilla.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (001 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(001_of_166).jpg",
+      "width": 1616,
+      "height": 2830
+    },
+    {
+      "card": "02_Eclaircissement.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (003 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(003_of_166).jpg",
+      "width": 1601,
+      "height": 2815
+    },
+    {
+      "card": "03_Propos.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (005 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(005_of_166).jpg",
+      "width": 1619,
+      "height": 2842
+    },
+    {
+      "card": "04_Depouillement.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (007 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(007_of_166).jpg",
+      "width": 1610,
+      "height": 2791
+    },
+    {
+      "card": "05_Voyage.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (009 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(009_of_166).jpg",
+      "width": 1598,
+      "height": 2800
+    },
+    {
+      "card": "06_Nuit.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (011 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(011_of_166).jpg",
+      "width": 1592,
+      "height": 2836
+    },
+    {
+      "card": "07_Appui.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (013 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(013_of_166).jpg",
+      "width": 1604,
+      "height": 2806
+    },
+    {
+      "card": "08_Etteilla.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (015 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(015_of_166).jpg",
+      "width": 1604,
+      "height": 2824
+    },
+    {
+      "card": "09_La_Justice.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (017 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(017_of_166).jpg",
+      "width": 1607,
+      "height": 2803
+    },
+    {
+      "card": "10_La_Temperance.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (019 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(019_of_166).jpg",
+      "width": 1595,
+      "height": 2809
+    },
+    {
+      "card": "11_La_Force.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (021 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(021_of_166).jpg",
+      "width": 1604,
+      "height": 2818
+    },
+    {
+      "card": "12_La_Prudence.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (023 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(023_of_166).jpg",
+      "width": 1598,
+      "height": 2824
+    },
+    {
+      "card": "13_Mariage.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (025 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(025_of_166).jpg",
+      "width": 1607,
+      "height": 2794
+    },
+    {
+      "card": "14_Force_Majeure.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (027 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(027_of_166).jpg",
+      "width": 1592,
+      "height": 2830
+    },
+    {
+      "card": "15_Maladie.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (029 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(029_of_166).jpg",
+      "width": 1604,
+      "height": 2815
+    },
+    {
+      "card": "16_Le_Jugement_Dernier.jpg",
+      "source_file": "16 Le Judement Dernier - H. Pussey Grand Etteilla Tarot Deck.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:16_Le_Judement_Dernier_-_H._Pussey_Grand_Etteilla_Tarot_Deck.jpg",
+      "width": 800,
+      "height": 1416
+    },
+    {
+      "card": "17_La_Mort.jpg",
+      "source_file": "17 La Mort- H. Pussey Grand Etteilla Tarot Deck.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:17_La_Mort-_H._Pussey_Grand_Etteilla_Tarot_Deck.jpg",
+      "width": 800,
+      "height": 1416
+    },
+    {
+      "card": "18_Traitre.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (031 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(031_of_166).jpg",
+      "width": 1601,
+      "height": 2824
+    },
+    {
+      "card": "19_Misere.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (033 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(033_of_166).jpg",
+      "width": 1610,
+      "height": 2812
+    },
+    {
+      "card": "20_Fortune.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (035 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(035_of_166).jpg",
+      "width": 1604,
+      "height": 2839
+    },
+    {
+      "card": "21_Dissension.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (037 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(037_of_166).jpg",
+      "width": 1601,
+      "height": 2785
+    },
+    {
+      "card": "22_Homme_de_Campagne.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (039 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(039_of_166).jpg",
+      "width": 1601,
+      "height": 2833
+    },
+    {
+      "card": "23_Femme_de_Campagne.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (041 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(041_of_166).jpg",
+      "width": 1610,
+      "height": 2806
+    },
+    {
+      "card": "24_Depart.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (043 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(043_of_166).jpg",
+      "width": 1613,
+      "height": 2818
+    },
+    {
+      "card": "25_Etranger.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (045 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(045_of_166).jpg",
+      "width": 1598,
+      "height": 2806
+    },
+    {
+      "card": "26_Trahison.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (047 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(047_of_166).jpg",
+      "width": 1607,
+      "height": 2824
+    },
+    {
+      "card": "27_Retard.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (049 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(049_of_166).jpg",
+      "width": 1607,
+      "height": 2803
+    },
+    {
+      "card": "28_Campagne.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (051 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(051_of_166).jpg",
+      "width": 1607,
+      "height": 2812
+    },
+    {
+      "card": "29_Pour_Parler.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (053 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(053_of_166).jpg",
+      "width": 1586,
+      "height": 2794
+    },
+    {
+      "card": "30_Domestique.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (055 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(055_of_166).jpg",
+      "width": 1589,
+      "height": 2794
+    },
+    {
+      "card": "31_Or.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (057 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(057_of_166).jpg",
+      "width": 1610,
+      "height": 2803
+    },
+    {
+      "card": "32_Societe.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (059 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(059_of_166).jpg",
+      "width": 1607,
+      "height": 2815
+    },
+    {
+      "card": "33_Entreprises.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (061 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(061_of_166).jpg",
+      "width": 1604,
+      "height": 2809
+    },
+    {
+      "card": "34_Chagrin.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (063 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(063_of_166).jpg",
+      "width": 1595,
+      "height": 2818
+    },
+    {
+      "card": "35_Naissance.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (065 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(065_of_166).jpg",
+      "width": 1613,
+      "height": 2809
+    },
+    {
+      "card": "36_Homme_Blond.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (067 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(067_of_166).jpg",
+      "width": 1604,
+      "height": 2827
+    },
+    {
+      "card": "37_Femme_Blonde.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (069 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(069_of_166).jpg",
+      "width": 1595,
+      "height": 2821
+    },
+    {
+      "card": "38_Arrive.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (071 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(071_of_166).jpg",
+      "width": 1595,
+      "height": 2818
+    },
+    {
+      "card": "39_Garcon_Blond.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (073 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(073_of_166).jpg",
+      "width": 1595,
+      "height": 2788
+    },
+    {
+      "card": "40_La_Ville.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (075 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(075_of_166).jpg",
+      "width": 1634,
+      "height": 2803
+    },
+    {
+      "card": "41_Victoire.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (077 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(077_of_166).jpg",
+      "width": 1595,
+      "height": 2797
+    },
+    {
+      "card": "42_Fille_Blonde.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (079 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(079_of_166).jpg",
+      "width": 1607,
+      "height": 2806
+    },
+    {
+      "card": "43_La_Pensee.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (081 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(081_of_166).jpg",
+      "width": 1607,
+      "height": 2812
+    },
+    {
+      "card": "44_Le_Passe.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (083 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(083_of_166).jpg",
+      "width": 1595,
+      "height": 2788
+    },
+    {
+      "card": "45_Heritage.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (085 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(085_of_166).jpg",
+      "width": 1598,
+      "height": 2779
+    },
+    {
+      "card": "46_Ennui.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (087 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(087_of_166).jpg",
+      "width": 1604,
+      "height": 2833
+    },
+    {
+      "card": "47_Reussite.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (089 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(089_of_166).jpg",
+      "width": 1610,
+      "height": 2800
+    },
+    {
+      "card": "48_Amour.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (091 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(091_of_166).jpg",
+      "width": 1604,
+      "height": 2800
+    },
+    {
+      "card": "50_Homme_de_Robe.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (093 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(093_of_166).jpg",
+      "width": 1601,
+      "height": 2812
+    },
+    {
+      "card": "51_Veuvage.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (095 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(095_of_166).jpg",
+      "width": 1619,
+      "height": 2815
+    },
+    {
+      "card": "52_Militaire.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (097 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(097_of_166).jpg",
+      "width": 1610,
+      "height": 2812
+    },
+    {
+      "card": "53_Espion.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (099 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(099_of_166).jpg",
+      "width": 1598,
+      "height": 2776
+    },
+    {
+      "card": "54_Pleurs.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (101 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(101_of_166).jpg",
+      "width": 1601,
+      "height": 2818
+    },
+    {
+      "card": "55_Ecclesiastique.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (103 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(103_of_166).jpg",
+      "width": 1607,
+      "height": 2821
+    },
+    {
+      "card": "56_Critique.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (105 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(105_of_166).jpg",
+      "width": 1604,
+      "height": 2818
+    },
+    {
+      "card": "57_Esperance.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (107 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(107_of_166).jpg",
+      "width": 1604,
+      "height": 2800
+    },
+    {
+      "card": "58_Route.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (109 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(109_of_166).jpg",
+      "width": 1604,
+      "height": 2794
+    },
+    {
+      "card": "59_Perte.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (111 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(111_of_166).jpg",
+      "width": 1607,
+      "height": 2806
+    },
+    {
+      "card": "60_Solitude.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (113 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(113_of_166).jpg",
+      "width": 1604,
+      "height": 2827
+    },
+    {
+      "card": "61_Eloignement.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (115 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(115_of_166).jpg",
+      "width": 1601,
+      "height": 2818
+    },
+    {
+      "card": "62_Amitie.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (117 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(117_of_166).jpg",
+      "width": 1610,
+      "height": 2839
+    },
+    {
+      "card": "64_Homme_Brun.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (119 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(119_of_166).jpg",
+      "width": 1613,
+      "height": 2824
+    },
+    {
+      "card": "65_Femme_Brune.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (121 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(121_of_166).jpg",
+      "width": 1610,
+      "height": 2803
+    },
+    {
+      "card": "66_Utilite.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (123 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(123_of_166).jpg",
+      "width": 1604,
+      "height": 2809
+    },
+    {
+      "card": "67_Garcon_Brun.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (125 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(125_of_166).jpg",
+      "width": 1589,
+      "height": 2800
+    },
+    {
+      "card": "68_La_Maison.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (127 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(127_of_166).jpg",
+      "width": 1601,
+      "height": 2818
+    },
+    {
+      "card": "69_Effet.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (129 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(129_of_166).jpg",
+      "width": 1595,
+      "height": 2800
+    },
+    {
+      "card": "70_Fille_Brune.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (131 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(131_of_166).jpg",
+      "width": 1604,
+      "height": 2803
+    },
+    {
+      "card": "71_Argent.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (133 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(133_of_166).jpg",
+      "width": 1601,
+      "height": 2791
+    },
+    {
+      "card": "72_Le_Present.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (135 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(135_of_166).jpg",
+      "width": 1613,
+      "height": 2785
+    },
+    {
+      "card": "73_Amant_Amante.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (137 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(137_of_166).jpg",
+      "width": 1610,
+      "height": 2800
+    },
+    {
+      "card": "74_Un_Present.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (139 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(139_of_166).jpg",
+      "width": 1604,
+      "height": 2809
+    },
+    {
+      "card": "75_Noble.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (141 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(141_of_166).jpg",
+      "width": 1613,
+      "height": 2815
+    },
+    {
+      "card": "76_Ambarras.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (143 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(143_of_166).jpg",
+      "width": 1604,
+      "height": 2818
+    },
+    {
+      "card": "77_Parfait_Contentement.jpg",
+      "source_file": "Jeu de tarot divinatoire dit \"Grand Etteilla\" ou \"tarot égyptien\" - jeu de cartes, estampe - btv1b105111415 (145 of 166).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_divinatoire_dit_%22Grand_Etteilla%22_ou_%22tarot_%C3%A9gyptien%22_-_jeu_de_cartes,_estampe_-_btv1b105111415_(145_of_166).jpg",
+      "width": 1601,
+      "height": 2773
+    }
+  ]
+}
