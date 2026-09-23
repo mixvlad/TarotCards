@@ -1,0 +1,641 @@
+{
+  "name": "Tarot de Viéville",
+  "source": "Wikimedia Commons",
+  "category": "https://commons.wikimedia.org/wiki/Category:Jeu%20de%20tarot%20%C3%A0%20enseignes%20italiennes%20dit%20%22tarot%20Vi%C3%A9ville%22%20-%20jeu%20de%20cartes%2C%20estampe%20-%20btv1b10510963k",
+  "note": "Jacques Viéville's tarot (Paris, c.1650), BnF scans. Printed trump order differs from Marseille: VII Justice, VIII Chariot, IX Force, XI Hermit.",
+  "card_count": 78,
+  "cards": [
+    {
+      "card": "00_Le_Mat.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (101 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(101_of_156).jpg",
+      "width": 1735,
+      "height": 3051
+    },
+    {
+      "card": "01_Le_Bateleur.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (001 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(001_of_156).jpg",
+      "width": 1706,
+      "height": 3026
+    },
+    {
+      "card": "02_La_Papesse.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (003 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(003_of_156).jpg",
+      "width": 1700,
+      "height": 3023
+    },
+    {
+      "card": "03_L_Imperatrice.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (005 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(005_of_156).jpg",
+      "width": 1721,
+      "height": 3044
+    },
+    {
+      "card": "04_L_Empereur.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (007 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(007_of_156).jpg",
+      "width": 1709,
+      "height": 3041
+    },
+    {
+      "card": "05_Le_Pape.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (009 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(009_of_156).jpg",
+      "width": 1697,
+      "height": 3041
+    },
+    {
+      "card": "06_L_Amoureux.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (011 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(011_of_156).jpg",
+      "width": 1691,
+      "height": 3041
+    },
+    {
+      "card": "07_La_Justice.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (013 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(013_of_156).jpg",
+      "width": 1745,
+      "height": 3047
+    },
+    {
+      "card": "08_Le_Chariot.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (015 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(015_of_156).jpg",
+      "width": 1706,
+      "height": 3041
+    },
+    {
+      "card": "09_La_Force.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (017 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(017_of_156).jpg",
+      "width": 1700,
+      "height": 3047
+    },
+    {
+      "card": "10_La_Roue_de_Fortune.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (019 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(019_of_156).jpg",
+      "width": 1729,
+      "height": 3057
+    },
+    {
+      "card": "11_L_Ermite.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (021 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(021_of_156).jpg",
+      "width": 1735,
+      "height": 3054
+    },
+    {
+      "card": "12_Le_Pendu.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (023 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(023_of_156).jpg",
+      "width": 1717,
+      "height": 3060
+    },
+    {
+      "card": "13_La_Mort.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (025 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(025_of_156).jpg",
+      "width": 1702,
+      "height": 3051
+    },
+    {
+      "card": "14_Temperance.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (027 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(027_of_156).jpg",
+      "width": 1714,
+      "height": 3042
+    },
+    {
+      "card": "15_Le_Diable.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (029 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(029_of_156).jpg",
+      "width": 1708,
+      "height": 3027
+    },
+    {
+      "card": "16_La_Maison_Dieu.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (031 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(031_of_156).jpg",
+      "width": 1708,
+      "height": 3033
+    },
+    {
+      "card": "17_L_Etoile.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (033 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(033_of_156).jpg",
+      "width": 1687,
+      "height": 3039
+    },
+    {
+      "card": "18_La_Lune.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (035 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(035_of_156).jpg",
+      "width": 1705,
+      "height": 3024
+    },
+    {
+      "card": "19_Le_Soleil.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (037 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(037_of_156).jpg",
+      "width": 1714,
+      "height": 3036
+    },
+    {
+      "card": "20_Le_Jugement.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (039 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(039_of_156).jpg",
+      "width": 1726,
+      "height": 3027
+    },
+    {
+      "card": "21_Le_Monde.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (041 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(041_of_156).jpg",
+      "width": 1750,
+      "height": 3033
+    },
+    {
+      "card": "Cover.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (002 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(002_of_156).jpg",
+      "width": 1704,
+      "height": 3028
+    },
+    {
+      "card": "Cups01.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (129 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(129_of_156).jpg",
+      "width": 1675,
+      "height": 3066
+    },
+    {
+      "card": "Cups02.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (131 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(131_of_156).jpg",
+      "width": 1687,
+      "height": 3051
+    },
+    {
+      "card": "Cups03.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (133 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(133_of_156).jpg",
+      "width": 1633,
+      "height": 3021
+    },
+    {
+      "card": "Cups04.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (135 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(135_of_156).jpg",
+      "width": 1732,
+      "height": 3033
+    },
+    {
+      "card": "Cups05.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (137 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(137_of_156).jpg",
+      "width": 1705,
+      "height": 3048
+    },
+    {
+      "card": "Cups06.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (139 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(139_of_156).jpg",
+      "width": 1681,
+      "height": 3015
+    },
+    {
+      "card": "Cups07.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (141 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(141_of_156).jpg",
+      "width": 1708,
+      "height": 3042
+    },
+    {
+      "card": "Cups08.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (143 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(143_of_156).jpg",
+      "width": 1690,
+      "height": 3045
+    },
+    {
+      "card": "Cups09.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (145 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(145_of_156).jpg",
+      "width": 1690,
+      "height": 2988
+    },
+    {
+      "card": "Cups10.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (147 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(147_of_156).jpg",
+      "width": 1681,
+      "height": 3051
+    },
+    {
+      "card": "Cups11.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (155 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(155_of_156).jpg",
+      "width": 1702,
+      "height": 3027
+    },
+    {
+      "card": "Cups12.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (153 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(153_of_156).jpg",
+      "width": 1696,
+      "height": 3051
+    },
+    {
+      "card": "Cups13.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (151 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(151_of_156).jpg",
+      "width": 1717,
+      "height": 3003
+    },
+    {
+      "card": "Cups14.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (149 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(149_of_156).jpg",
+      "width": 1699,
+      "height": 3036
+    },
+    {
+      "card": "Pents01.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (073 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(073_of_156).jpg",
+      "width": 1687,
+      "height": 3051
+    },
+    {
+      "card": "Pents02.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (075 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(075_of_156).jpg",
+      "width": 1699,
+      "height": 3006
+    },
+    {
+      "card": "Pents03.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (077 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(077_of_156).jpg",
+      "width": 1726,
+      "height": 3018
+    },
+    {
+      "card": "Pents04.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (079 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(079_of_156).jpg",
+      "width": 1708,
+      "height": 3018
+    },
+    {
+      "card": "Pents05.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (081 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(081_of_156).jpg",
+      "width": 1708,
+      "height": 3072
+    },
+    {
+      "card": "Pents06.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (083 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(083_of_156).jpg",
+      "width": 1717,
+      "height": 3045
+    },
+    {
+      "card": "Pents07.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (085 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(085_of_156).jpg",
+      "width": 1693,
+      "height": 3051
+    },
+    {
+      "card": "Pents08.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (087 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(087_of_156).jpg",
+      "width": 1777,
+      "height": 3000
+    },
+    {
+      "card": "Pents09.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (089 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(089_of_156).jpg",
+      "width": 1777,
+      "height": 3066
+    },
+    {
+      "card": "Pents10.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (091 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(091_of_156).jpg",
+      "width": 1735,
+      "height": 3084
+    },
+    {
+      "card": "Pents11.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (099 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(099_of_156).jpg",
+      "width": 1717,
+      "height": 3000
+    },
+    {
+      "card": "Pents12.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (097 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(097_of_156).jpg",
+      "width": 1690,
+      "height": 3054
+    },
+    {
+      "card": "Pents13.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (095 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(095_of_156).jpg",
+      "width": 1738,
+      "height": 3036
+    },
+    {
+      "card": "Pents14.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (093 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(093_of_156).jpg",
+      "width": 1696,
+      "height": 3024
+    },
+    {
+      "card": "Swords01.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (053 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(053_of_156).jpg",
+      "width": 1714,
+      "height": 3090
+    },
+    {
+      "card": "Swords02.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (057 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(057_of_156).jpg",
+      "width": 1699,
+      "height": 3018
+    },
+    {
+      "card": "Swords03.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (055 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(055_of_156).jpg",
+      "width": 1708,
+      "height": 3054
+    },
+    {
+      "card": "Swords04.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (059 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(059_of_156).jpg",
+      "width": 1705,
+      "height": 3012
+    },
+    {
+      "card": "Swords05.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (061 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(061_of_156).jpg",
+      "width": 1705,
+      "height": 3015
+    },
+    {
+      "card": "Swords06.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (063 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(063_of_156).jpg",
+      "width": 1672,
+      "height": 3003
+    },
+    {
+      "card": "Swords07.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (065 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(065_of_156).jpg",
+      "width": 1696,
+      "height": 3042
+    },
+    {
+      "card": "Swords08.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (067 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(067_of_156).jpg",
+      "width": 1768,
+      "height": 3024
+    },
+    {
+      "card": "Swords09.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (069 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(069_of_156).jpg",
+      "width": 1738,
+      "height": 3063
+    },
+    {
+      "card": "Swords10.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (071 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(071_of_156).jpg",
+      "width": 1702,
+      "height": 3036
+    },
+    {
+      "card": "Swords11.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (049 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(049_of_156).jpg",
+      "width": 1696,
+      "height": 3051
+    },
+    {
+      "card": "Swords12.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (047 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(047_of_156).jpg",
+      "width": 1684,
+      "height": 3033
+    },
+    {
+      "card": "Swords13.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (045 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(045_of_156).jpg",
+      "width": 1699,
+      "height": 3042
+    },
+    {
+      "card": "Swords14.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (043 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(043_of_156).jpg",
+      "width": 1699,
+      "height": 3024
+    },
+    {
+      "card": "Wands01.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (051 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(051_of_156).jpg",
+      "width": 1741,
+      "height": 3060
+    },
+    {
+      "card": "Wands02.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (103 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(103_of_156).jpg",
+      "width": 1717,
+      "height": 3051
+    },
+    {
+      "card": "Wands03.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (105 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(105_of_156).jpg",
+      "width": 1726,
+      "height": 3051
+    },
+    {
+      "card": "Wands04.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (107 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(107_of_156).jpg",
+      "width": 1723,
+      "height": 3030
+    },
+    {
+      "card": "Wands05.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (109 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(109_of_156).jpg",
+      "width": 1723,
+      "height": 3024
+    },
+    {
+      "card": "Wands06.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (111 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(111_of_156).jpg",
+      "width": 1708,
+      "height": 3030
+    },
+    {
+      "card": "Wands07.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (113 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(113_of_156).jpg",
+      "width": 1705,
+      "height": 3057
+    },
+    {
+      "card": "Wands08.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (115 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(115_of_156).jpg",
+      "width": 1723,
+      "height": 3051
+    },
+    {
+      "card": "Wands09.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (117 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(117_of_156).jpg",
+      "width": 1723,
+      "height": 3081
+    },
+    {
+      "card": "Wands10.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (119 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(119_of_156).jpg",
+      "width": 1699,
+      "height": 3057
+    },
+    {
+      "card": "Wands11.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (127 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(127_of_156).jpg",
+      "width": 1693,
+      "height": 3066
+    },
+    {
+      "card": "Wands12.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (125 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(125_of_156).jpg",
+      "width": 1693,
+      "height": 3048
+    },
+    {
+      "card": "Wands13.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (123 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(123_of_156).jpg",
+      "width": 1693,
+      "height": 3039
+    },
+    {
+      "card": "Wands14.jpg",
+      "source_file": "Jeu de tarot à enseignes italiennes dit \"tarot Viéville\" - jeu de cartes, estampe - btv1b10510963k (121 of 156).jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k_(121_of_156).jpg",
+      "width": 1717,
+      "height": 3009
+    }
+  ]
+}
