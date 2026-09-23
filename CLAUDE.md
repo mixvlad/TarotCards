@@ -24,8 +24,8 @@ pip install -r requirements.txt
 All scripts are located in the `scripts/` directory and should be run from the project root:
 
 ```bash
-# Download tarot cards from sources
-python scripts/download_tarot_cards.py
+# Download a public-domain deck from Wikimedia Commons
+python scripts/download_commons_deck.py --deck sola-busca
 
 # Resize cards to different resolutions
 python scripts/resize_cards.py
@@ -40,7 +40,7 @@ python scripts/convert_to_jpg.py
 ## Architecture and Key Components
 
 ### Image Processing Pipeline
-1. **Download Stage**: `download_tarot_cards.py` fetches images from Wikimedia Commons
+1. **Download Stage**: `download_commons_deck.py` fetches public-domain decks from Wikimedia Commons (Rider-Waite images are already in the repo; their original download script was removed)
 2. **Processing Stage**: `resize_cards.py` creates optimized versions at different resolutions
 3. **Conversion Stage**: `convert_to_jpg.py` standardizes formats
 4. **Animation Stage**: `create_tarot_gif.py` generates various GIF layouts
@@ -48,6 +48,7 @@ python scripts/convert_to_jpg.py
 ### Directory Structure Conventions
 - Original images: `tarot/{deck_name}/full/`
 - Resized versions: `tarot/{deck_name}/720px/`
+- Rider-Waite only: lossless PNG originals in `tarot/rider-waite/full-png/` (`full/` holds JPG copies)
 - Generated GIFs: `tarot/{deck_name}/gif/`
 - All scripts must be in `scripts/` directory
 
@@ -78,8 +79,12 @@ Cards follow specific naming patterns:
 ## Working with Tarot Decks
 
 ### Available Decks
-- **rider-waite**: Complete 78-card deck with multiple resolutions
-- **soimoi**: Alternative deck, all images in JPG format
+- **rider-waite**: Complete 78-card deck (steve-p.org, public domain)
+- **soimoi**: Original deck by Mike Koz, generated with an image model, JPG, licensed CC BY 4.0 (`tarot/soimoi/LICENSE`)
+- **sola-busca**: 78 cards `00.jpg`–`77.jpg` (Wikimedia Commons, public domain)
+- **marseille**: 78 PNG cards, historical trump numbering (Wikimedia Commons, public domain)
+
+Licensing: scripts are MIT (`LICENSE`), each deck carries its own license — keep README.md and SOURCES.md in sync when adding a deck.
 
 ### Adding New Decks
 1. Create directory: `tarot/{deck_name}/full/`
@@ -113,5 +118,5 @@ When modifying scripts:
 
 Core dependencies (from requirements.txt):
 - `Pillow`: Image processing
-- `requests`: HTTP downloads
-- `beautifulsoup4`: Web scraping (optional)
+
+`download_commons_deck.py` uses only the standard library (`urllib`).

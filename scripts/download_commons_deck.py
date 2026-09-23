@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """Download a complete public-domain tarot deck from Wikimedia Commons.
 
-Unlike download_tarot_cards.py (which is hard-wired to the Rider-Waite scans on
-steve-p.org), this script pulls decks straight from the Wikimedia Commons API.
+This script pulls decks straight from the Wikimedia Commons API.
 For every card it fetches the original-resolution image *and* its per-file
 licence, so we never blindly assume "public domain" — only files whose licence
 actually says so are saved, and the licence is recorded in metadata.json.

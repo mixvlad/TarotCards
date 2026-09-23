@@ -8,14 +8,14 @@ This document provides detailed information about the sources of tarot card imag
 - **Original Artist**: Pamela Colman Smith (1878-1951)
 - **Original Publisher**: Rider & Company (1909)
 - **Current Source**: Steve-P.org Tarot Collection
+- **Scans**: Third-party scans of an original 1909 "Pam-A" deck, cleaned up and restored by Steve P. ([steve-p.org](https://steve-p.org/cards/RWSa.html))
 - **License**: Public Domain (copyright expired)
 
 ### Image Details
 - **Source URL**: https://steve-p.org/cards/RWSa.html
-- **Download Method**: Automated Python script using requests library
-- **Image Format**: PNG
+- **Download Method**: One-time download; the images are stored in this repository
+- **Image Format**: Lossless PNG originals in `full-png/`; JPG copies (quality 95) in `full/` and `720px/`
 - **Resolution**: High quality scans from original deck
-- **Download Script**: download_tarot_cards.py
 
 ### Copyright Status
 The Rider-Waite-Smith tarot deck was published in 1909 and is now in the public domain in most countries. The original artwork by Pamela Colman Smith and the deck design by Arthur Edward Waite are no longer under copyright protection.
@@ -25,6 +25,30 @@ While the images are in the public domain, it's good practice to acknowledge:
 - **Artist**: Pamela Colman Smith
 - **Publisher**: Rider & Company
 - **Year**: 1909
+- **Scan restoration**: Steve P. (steve-p.org)
+
+## Soimoi Tarot Deck
+
+### Source Information
+- **Author**: Mike Koz ([koz.tv](https://koz.tv/))
+- **Year**: 2025
+- **Method**: Original deck created with a generative image model
+- **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — see [tarot/soimoi/LICENSE](tarot/soimoi/LICENSE)
+
+### Image Details
+- **Cards**: 78 (`00_Fool.jpg`–`21_World.jpg`, `{Suit}{01-14}.jpg`) plus `Cover.jpg`
+- **Format**: JPG, full resolution and 720px
+
+### Copyright Status
+An original deck made for this repository. It is released under CC BY 4.0 and
+may be used for any purpose, including commercial projects. Copyright protection
+for AI-generated images differs between jurisdictions; to the extent any rights
+exist, they are licensed under CC BY 4.0.
+
+### Attribution Requirements
+Attribution is required. Suggested credit (an About / Credits screen is fine):
+
+> "Soimoi Tarot" by Mike Koz (https://koz.tv/), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 ## Sola Busca Tarot Deck
 
