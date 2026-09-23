@@ -129,7 +129,7 @@ def main():
   python resize_cards.py --source tarot/rider-waite/full --output tarot/rider-waite/720px --width 720
   
   # Изменить размер карт Soimoi до 400x600 без сохранения пропорций
-  python resize_cards.py -s tarot/soimoi/full -o tarot/soimoi/resized -w 400 -h 600 --no-preserve-aspect
+  python resize_cards.py -s tarot/soimoi/full -o tarot/soimoi/resized -w 400 -H 600 --no-preserve-aspect
   
   # Создать миниатюры высотой 200px с качеством 85%
   python resize_cards.py -s tarot/rider-waite/full -o tarot/rider-waite/thumbs --height 200 -q 85

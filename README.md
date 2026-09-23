@@ -4,22 +4,24 @@ A curated collection of tarot card decks with high-quality images and comprehens
 
 ## Overview
 
-This repository contains various tarot card decks sourced from public domain and Creative Commons licensed materials. Each deck is organized in its own directory with proper attribution and source information.
+This repository contains various tarot card decks: public domain decks and the original Soimoi deck, released under Creative Commons. Each deck is organized in its own directory with proper attribution and source information.
 
 ## Available Decks
 
 ### Rider-Waite Tarot Deck
 - **Location**: `tarot/rider-waite/`
-- **Source**: Wikimedia Commons
+- **Source**: [Steve-P.org Tarot Collection](https://steve-p.org/cards/RWSa.html)
 - **License**: Public Domain
 - **Description**: The classic Rider-Waite-Smith tarot deck, one of the most influential and widely used tarot decks in the world.
-- **Formats**: Full resolution (720px) and optimized versions
+- **Formats**: Full resolution (JPG in `full/`, lossless PNG in `full-png/`) and 720px
 - **Complete deck**: 78 cards (22 Major Arcana + 56 Minor Arcana)
 
 ### Soimoi Tarot Deck
 - **Location**: `tarot/soimoi/`
-- **Description**: Alternative tarot deck collection
-- **Format**: JPG images in full resolution
+- **Author**: Mike Koz ([koz.tv](https://koz.tv/)), created with a generative image model
+- **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free for any use, including commercial, with attribution (see [tarot/soimoi/LICENSE](tarot/soimoi/LICENSE))
+- **Description**: Original 78-card tarot deck
+- **Format**: JPG images in full resolution and 720px
 
 ### Sola Busca Tarot Deck
 - **Location**: `tarot/sola-busca/`
@@ -44,22 +46,29 @@ TarotCards/
 ├── SOURCES.md
 ├── requirements.txt
 ├── tarot/
-│   ├── rider-waite/
-│   │   ├── 720px/        # Full resolution cards
-│   │   ├── full/         # Original downloads
+│   ├── rider-waite/      # Rider-Waite-Smith (Steve-P.org, PD)
+│   │   ├── full/         # Full-resolution JPG
+│   │   ├── full-png/     # Lossless PNG originals (same scans)
+│   │   ├── 720px/        # Resized cards (720px wide)
 │   │   ├── gif/          # Generated GIF animations
 │   │   └── metadata.json
-│   ├── soimoi/
-│   │   └── full/         # Full resolution cards
+│   ├── soimoi/           # Soimoi deck by Mike Koz (CC BY 4.0)
+│   │   ├── full/
+│   │   ├── 720px/
+│   │   ├── gif/
+│   │   └── LICENSE
 │   ├── sola-busca/       # Sola Busca deck (Wikimedia Commons, PD)
 │   │   ├── full/
+│   │   ├── 720px/
+│   │   ├── gif/
 │   │   └── metadata.json
 │   └── marseille/        # Tarot de Marseille (Wikimedia Commons, PD)
 │       ├── full/
+│       ├── 720px/
+│       ├── gif/
 │       └── metadata.json
 ├── decks_config.json      # Configuration file for all decks
 └── scripts/
-    ├── download_tarot_cards.py
     ├── download_commons_deck.py
     ├── resize_cards.py
     ├── create_tarot_gif.py
@@ -79,26 +88,10 @@ pip install -r requirements.txt
 
 Required packages:
 - `Pillow` - Image processing and manipulation
-- `requests` - HTTP library for downloading files
-- `beautifulsoup4` - Web scraping (optional, for download scripts)
 
 ## Scripts Documentation
 
-### 1. download_tarot_cards.py
-**Purpose**: Downloads tarot card images from Wikimedia Commons or other sources.
-
-**Usage**:
-```bash
-python scripts/download_tarot_cards.py
-```
-
-**Features**:
-- Downloads complete Rider-Waite deck from Wikimedia Commons
-- Handles Major and Minor Arcana cards
-- Automatic retry on failed downloads
-- Progress tracking
-
-### 1b. download_commons_deck.py
+### 1. download_commons_deck.py
 **Purpose**: Downloads complete public-domain decks straight from the Wikimedia Commons API, verifying each file's licence and recording it in `metadata.json`.
 
 **Usage**:
@@ -129,7 +122,7 @@ python scripts/resize_cards.py --source tarot/rider-waite/full --output tarot/ri
 python scripts/resize_cards.py -s tarot/soimoi/full -o tarot/soimoi/thumbs --height 200 -q 85
 
 # Resize without preserving aspect ratio
-python scripts/resize_cards.py -s tarot/new_deck/full -o tarot/new_deck/400x600 -w 400 -h 600 --no-preserve-aspect
+python scripts/resize_cards.py -s tarot/new_deck/full -o tarot/new_deck/400x600 -w 400 -H 600 --no-preserve-aspect
 ```
 
 **Arguments**:
@@ -277,9 +270,7 @@ The `decks_config.json` file stores configuration for all tarot decks:
       "source_dir": "tarot/rider-waite",
       "full_size_dir": "tarot/rider-waite/full",
       "resized_dirs": {
-        "720px": "tarot/rider-waite/720px",
-        "360px": "tarot/rider-waite/360px",
-        "thumbs": "tarot/rider-waite/thumbs"
+        "720px": "tarot/rider-waite/720px"
       },
       "gif_dir": "tarot/rider-waite/gif",
       "card_count": 78
@@ -353,18 +344,23 @@ python scripts/deck_manager.py --deck new_deck --scripts gif
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) - see the [LICENSE](LICENSE) file for details.
+Each part of the repository has its own license:
+
+| Part | License |
+|---|---|
+| Scripts and documentation | [MIT](LICENSE) |
+| Rider-Waite, Sola Busca, Tarot de Marseille images | Public Domain |
+| Soimoi deck images (`tarot/soimoi/`) | [CC BY 4.0](tarot/soimoi/LICENSE) |
 
 **This means**:
-- ✅ You can use, modify, and share this project for non-commercial purposes
-- ✅ You must give appropriate credit
-- ❌ You cannot use this project for commercial purposes
-- ❌ You cannot sell or monetize the content
+- ✅ Public domain decks can be used for any purpose without restrictions
+- ✅ The Soimoi deck can be used for any purpose, including commercial, as long as you credit the author: *"Soimoi Tarot" by Mike Koz (https://koz.tv/), licensed under CC BY 4.0*
+- ✅ The scripts can be used, modified and redistributed under the MIT license
 
 ## Sources and Attribution
 
-All images are sourced from public domain or Creative Commons licensed materials. See [SOURCES.md](SOURCES.md) for detailed attribution information.
+The Rider-Waite, Sola Busca and Tarot de Marseille images come from public domain sources. The Soimoi deck is an original work by Mike Koz. See [SOURCES.md](SOURCES.md) for detailed attribution information.
 
 ## Disclaimer
 
-This repository is for educational and research purposes. All images are used in accordance with their respective licenses and copyright terms. 
+All images are distributed in accordance with their respective licenses and copyright terms. Check the license of each deck before reuse — see the [License](#license) section and [SOURCES.md](SOURCES.md). 

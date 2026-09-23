@@ -6,15 +6,15 @@
       "source_dir": "tarot/rider-waite",
       "full_size_dir": "tarot/rider-waite/full",
       "resized_dirs": {
-        "720px": "tarot/rider-waite/720px",
-        "360px": "tarot/rider-waite/360px",
-        "thumbs": "tarot/rider-waite/thumbs"
+        "720px": "tarot/rider-waite/720px"
       },
       "gif_dir": "tarot/rider-waite/gif",
       "card_count": 78,
       "card_format": "jpg",
-      "naming_pattern": "rws_tarot_*",
-      "has_cover": true
+      "naming_pattern": "*",
+      "has_cover": true,
+      "source": "Steve-P.org Tarot Collection (https://steve-p.org/cards/RWSa.html)",
+      "license": "Public Domain"
     },
     "soimoi": {
       "name": "Soimoi",
@@ -22,15 +22,15 @@
       "source_dir": "tarot/soimoi",
       "full_size_dir": "tarot/soimoi/full",
       "resized_dirs": {
-        "720px": "tarot/soimoi/720px",
-        "360px": "tarot/soimoi/360px",
-        "thumbs": "tarot/soimoi/thumbs"
+        "720px": "tarot/soimoi/720px"
       },
       "gif_dir": "tarot/soimoi/gif",
       "card_count": 78,
       "card_format": "jpg",
       "naming_pattern": "*",
-      "has_cover": false
+      "has_cover": true,
+      "source": "Mike Koz (https://koz.tv/)",
+      "license": "CC BY 4.0"
     },
     "sola-busca": {
       "name": "Sola Busca",
