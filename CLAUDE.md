@@ -83,6 +83,13 @@ Cards follow specific naming patterns:
 - **soimoi**: Original deck by Mike Koz, generated with an image model, JPG, licensed CC BY 4.0 (`tarot/soimoi/LICENSE`)
 - **sola-busca**: 78 cards `00.jpg`–`77.jpg` (Wikimedia Commons, public domain)
 - **marseille**: 78 PNG cards, historical trump numbering (Wikimedia Commons, public domain)
+- **etteilla**: 75 cards in Etteilla's own 1–78 numbering, `NN_<Title>.jpg` (BnF via Commons, public domain)
+- **vieville**: 78 cards, Marseille-style names (BnF via Commons, public domain)
+- **visconti-sforza**: 73 surviving cards, RWS-style names (Commons, public domain)
+- **oswald-wirth**: 22 major arcana only (BnF via Commons, public domain)
+- **tarot-nouveau**: 78-card French-suited game deck, suits Hearts/Diamonds/Clubs/Spades (BnF via Commons, public domain)
+
+Card backs are stored as `Cover.jpg` next to the cards; `create_tarot_gif.py` skips them.
 
 Licensing: scripts are MIT (`LICENSE`), each deck carries its own license — keep README.md and SOURCES.md in sync when adding a deck.
 
