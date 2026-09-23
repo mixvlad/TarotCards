@@ -1,0 +1,185 @@
+{
+  "name": "Oswald Wirth Tarot",
+  "source": "Wikimedia Commons",
+  "category": "https://commons.wikimedia.org/wiki/Category:Oswald%20Wirth%20tarot%20deck",
+  "note": "Oswald Wirth's esoteric tarot (Paris, 1889), BnF scans. Major arcana only (22 cards).",
+  "card_count": 22,
+  "cards": [
+    {
+      "card": "00_Le_Fou.jpg",
+      "source_file": "00 Le Fou, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:00_Le_Fou,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 909,
+      "height": 1536
+    },
+    {
+      "card": "01_Le_Bateleur.jpg",
+      "source_file": "01 Le Bateleur, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:01_Le_Bateleur,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 910,
+      "height": 1536
+    },
+    {
+      "card": "02_La_Papesse.jpg",
+      "source_file": "02 La Papesse, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:02_La_Papesse,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 906,
+      "height": 1536
+    },
+    {
+      "card": "03_L_Imperatrice.jpg",
+      "source_file": "03 L'Imperatrice, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:03_L%27Imperatrice,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 906,
+      "height": 1536
+    },
+    {
+      "card": "04_L_Empereur.jpg",
+      "source_file": "04 L'Empereur, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:04_L%27Empereur,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 907,
+      "height": 1536
+    },
+    {
+      "card": "05_Le_Pape.jpg",
+      "source_file": "05 Le Pape, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:05_Le_Pape,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 918,
+      "height": 1536
+    },
+    {
+      "card": "06_L_Amoureux.jpg",
+      "source_file": "06 L'Amoureux, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:06_L%27Amoureux,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 917,
+      "height": 1536
+    },
+    {
+      "card": "07_Le_Chariot.jpg",
+      "source_file": "07 Le Chariot, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:07_Le_Chariot,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 893,
+      "height": 1536
+    },
+    {
+      "card": "08_La_Justice.jpg",
+      "source_file": "08 La Justice, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:08_La_Justice,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 912,
+      "height": 1536
+    },
+    {
+      "card": "09_L_Ermite.jpg",
+      "source_file": "09 L'Ermite, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:09_L%27Ermite,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 915,
+      "height": 1536
+    },
+    {
+      "card": "10_La_Roue_de_Fortune.jpg",
+      "source_file": "10 La Roue de Fortune, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:10_La_Roue_de_Fortune,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 914,
+      "height": 1536
+    },
+    {
+      "card": "11_La_Force.jpg",
+      "source_file": "11 La Force, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:11_La_Force,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 919,
+      "height": 1536
+    },
+    {
+      "card": "12_Le_Pendu.jpg",
+      "source_file": "12 Le Pendu, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:12_Le_Pendu,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 924,
+      "height": 1536
+    },
+    {
+      "card": "13_La_Mort.jpg",
+      "source_file": "13 La Mort, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:13_La_Mort,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 919,
+      "height": 1536
+    },
+    {
+      "card": "14_La_Temperance.jpg",
+      "source_file": "14 La Temperance, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:14_La_Temperance,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 912,
+      "height": 1536
+    },
+    {
+      "card": "15_Le_Diable.jpg",
+      "source_file": "15 Le Diable, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:15_Le_Diable,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 911,
+      "height": 1536
+    },
+    {
+      "card": "16_Le_Feu_du_Ciel.jpg",
+      "source_file": "16 Le Feu du Ciel, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:16_Le_Feu_du_Ciel,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 902,
+      "height": 1536
+    },
+    {
+      "card": "17_Les_Etoiles.jpg",
+      "source_file": "17 Les Etoiles, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:17_Les_Etoiles,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 916,
+      "height": 1536
+    },
+    {
+      "card": "18_La_Lune.jpg",
+      "source_file": "18 La Lune, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:18_La_Lune,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 911,
+      "height": 1536
+    },
+    {
+      "card": "19_Le_Soleil.jpg",
+      "source_file": "19 Le Soleil, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:19_Le_Soleil,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 907,
+      "height": 1536
+    },
+    {
+      "card": "20_Le_Jugement.jpg",
+      "source_file": "20 Le Jugement, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:20_Le_Jugement,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 906,
+      "height": 1536
+    },
+    {
+      "card": "21_Le_Monde.jpg",
+      "source_file": "21 Le Monde, Oswald Wirth Tarot Deck 1889 BnF.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:21_Le_Monde,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+      "width": 924,
+      "height": 1536
+    }
+  ]
+}
