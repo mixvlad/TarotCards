@@ -1,0 +1,593 @@
+{
+  "name": "Visconti-Sforza",
+  "source": "Wikimedia Commons",
+  "category": "https://commons.wikimedia.org/wiki/Category:Pierpont%20Morgan-Bergamo%20Visconti-Sforza%20Tarot",
+  "note": "Milan, c.1450-1470 (Bonifacio Bembo). Scans of an AGMuller facsimile by David Madore (2003). 73 cards: Devil, Tower, Knight of Coins and Three of Swords are lost; King of Cups is missing from this scan set.",
+  "card_count": 73,
+  "cards": [
+    {
+      "card": "00_Fool.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-fool.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-fool.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "01_Magician.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-01-magician.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-01-magician.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "02_High_Priestess.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-02-high priestess.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-02-high_priestess.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "03_Empress.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-03-empress.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-03-empress.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "04_Emperor.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-04-emperor.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-04-emperor.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "05_Hierophant.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-05-hierophant.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-05-hierophant.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "06_Lovers.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-06-lovers.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-06-lovers.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "07_Chariot.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-07-chariot.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-07-chariot.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "08_Justice.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-08-justice.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-08-justice.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "09_Hermit.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-09-hermit.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-09-hermit.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "10_Wheel_of_Fortune.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-10-wheel of fortune.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-10-wheel_of_fortune.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "11_Strength.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-11-strength.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-11-strength.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "12_Hanged_Man.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-12-hanged man.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-12-hanged_man.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "13_Death.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-13.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-13.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "14_Temperance.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-14-temperance.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-14-temperance.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "17_Star.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-17-star.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-17-star.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "18_Moon.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-18-moon.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-18-moon.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "19_Sun.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-19-sun.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-19-sun.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "20_Judgement.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-20-judgement.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-20-judgement.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "21_World.jpg",
+      "source_file": "Bembo-Visconti-tarot-arcanum-21-world.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-21-world.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups01.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-01-ace.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-01-ace.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups02.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-02-deuce.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-02-deuce.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups03.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-03.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-03.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups04.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-04.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-04.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups05.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-05.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-05.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups06.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-06.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-06.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups07.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-07.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-07.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups08.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-08.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-08.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups09.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-09.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-09.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups10.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-10.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-10.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups11.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-11-knave.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-11-knave.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups12.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-12-knight.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-12-knight.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Cups13.jpg",
+      "source_file": "Bembo-Visconti-tarot-cups-13-queen.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-cups-13-queen.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents01.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-01-ace.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-01-ace.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents02.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-02-deuce.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-02-deuce.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents03.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-03.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-03.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents04.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-04.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-04.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents05.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-05.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-05.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents06.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-06.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-06.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents07.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-07.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-07.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents08.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-08.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-08.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents09.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-09.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-09.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents10.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-10.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-10.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents11.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-11-knave.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-11-knave.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents13.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-13-queen.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-13-queen.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Pents14.jpg",
+      "source_file": "Bembo-Visconti-tarot-coins-14-king.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-coins-14-king.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords01.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-01-ace.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-01-ace.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords02.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-02-deuce.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-02-deuce.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords04.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-04.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-04.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords05.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-05.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-05.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords06.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-06.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-06.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords07.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-07.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-07.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords08.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-08.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-08.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords09.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-09.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-09.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords10.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-10.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-10.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords11.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-11-knave.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-11-knave.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords12.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-12-knight.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-12-knight.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords13.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-13-queen.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-13-queen.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Swords14.jpg",
+      "source_file": "Bembo-Visconti-tarot-swords-14-king.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-swords-14-king.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands01.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-01-ace.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-01-ace.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands02.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-02-deuce.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-02-deuce.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands03.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-03.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-03.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands04.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-04.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-04.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands05.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-05.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-05.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands06.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-06.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-06.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands07.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-07.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-07.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands08.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-08.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-08.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands09.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-09.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-09.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands10.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-10.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-10.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands11.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-11-knave.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-11-knave.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands12.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-12-knight.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-12-knight.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands13.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-13-queen.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-13-queen.jpg",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "card": "Wands14.jpg",
+      "source_file": "Bembo-Visconti-tarot-staves-14-king.jpg",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-staves-14-king.jpg",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}
