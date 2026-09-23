@@ -63,6 +63,86 @@
       "has_cover": false,
       "source": "Wikimedia Commons",
       "license": "Public Domain"
+    },
+    "etteilla": {
+      "name": "Grand Etteilla",
+      "description": "Гадательная колода Эттейлы (изд. H. Pussey, Париж, ок. 1880–1890), своя нумерация 1–78",
+      "source_dir": "tarot/etteilla",
+      "full_size_dir": "tarot/etteilla/full",
+      "resized_dirs": {
+        "720px": "tarot/etteilla/720px"
+      },
+      "gif_dir": "tarot/etteilla/gif",
+      "card_count": 75,
+      "card_format": "jpg",
+      "naming_pattern": "*",
+      "has_cover": false,
+      "source": "Wikimedia Commons",
+      "license": "Public Domain"
+    },
+    "vieville": {
+      "name": "Tarot de Viéville",
+      "description": "Французский таро Жака Вьевиля (Париж, ок. 1650)",
+      "source_dir": "tarot/vieville",
+      "full_size_dir": "tarot/vieville/full",
+      "resized_dirs": {
+        "720px": "tarot/vieville/720px"
+      },
+      "gif_dir": "tarot/vieville/gif",
+      "card_count": 78,
+      "card_format": "jpg",
+      "naming_pattern": "*",
+      "has_cover": true,
+      "source": "Wikimedia Commons",
+      "license": "Public Domain"
+    },
+    "visconti-sforza": {
+      "name": "Visconti-Sforza",
+      "description": "Ренессансная колода Висконти-Сфорца (Милан, ок. 1450–1470), 73 сохранившиеся карты",
+      "source_dir": "tarot/visconti-sforza",
+      "full_size_dir": "tarot/visconti-sforza/full",
+      "resized_dirs": {
+        "720px": "tarot/visconti-sforza/720px"
+      },
+      "gif_dir": "tarot/visconti-sforza/gif",
+      "card_count": 73,
+      "card_format": "jpg",
+      "naming_pattern": "*",
+      "has_cover": false,
+      "source": "Wikimedia Commons",
+      "license": "Public Domain"
+    },
+    "oswald-wirth": {
+      "name": "Oswald Wirth",
+      "description": "Эзотерический таро Освальда Вирта (Париж, 1889), только старшие арканы",
+      "source_dir": "tarot/oswald-wirth",
+      "full_size_dir": "tarot/oswald-wirth/full",
+      "resized_dirs": {
+        "720px": "tarot/oswald-wirth/720px"
+      },
+      "gif_dir": "tarot/oswald-wirth/gif",
+      "card_count": 22,
+      "card_format": "jpg",
+      "naming_pattern": "*",
+      "has_cover": false,
+      "source": "Wikimedia Commons",
+      "license": "Public Domain"
+    },
+    "tarot-nouveau": {
+      "name": "Tarot Nouveau",
+      "description": "Французский игровой таро (Grimaud, 1898), масти ♥♦♣♠",
+      "source_dir": "tarot/tarot-nouveau",
+      "full_size_dir": "tarot/tarot-nouveau/full",
+      "resized_dirs": {
+        "720px": "tarot/tarot-nouveau/720px"
+      },
+      "gif_dir": "tarot/tarot-nouveau/gif",
+      "card_count": 78,
+      "card_format": "jpg",
+      "naming_pattern": "*",
+      "has_cover": true,
+      "source": "Wikimedia Commons",
+      "license": "Public Domain"
     }
   },
   "default_settings": {
@@ -103,10 +183,22 @@
     },
     "resize": {
       "standard_sizes": {
-        "full": {"width": null, "height": null},
-        "720px": {"width": 720, "height": null},
-        "360px": {"width": 360, "height": null},
-        "thumbs": {"width": null, "height": 200}
+        "full": {
+          "width": null,
+          "height": null
+        },
+        "720px": {
+          "width": 720,
+          "height": null
+        },
+        "360px": {
+          "width": 360,
+          "height": null
+        },
+        "thumbs": {
+          "width": null,
+          "height": 200
+        }
       },
       "quality": 95,
       "preserve_aspect": true

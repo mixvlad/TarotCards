@@ -81,7 +81,7 @@ Public domain — attribution to Wikimedia Commons is appreciated but not requir
 
 ### Image Details
 - **Cards**: 78 (22 trumps + 56 minor arcana)
-- **Format**: PNG, ~200×351 px (clean reconstructions)
+- **Format**: PNG, ~813×1536 px (clean reconstructions)
 - **Note**: Uses the **historical Marseille trump numbering** — VIII is Justice
   (`08_La_Justice`) and XI is Force (`11_La_Force`), the reverse of Rider-Waite.
 
@@ -91,6 +91,97 @@ public domain. Each file's licence is checked individually at download time.
 
 ### Attribution Requirements
 Public domain — attribution to Wikimedia Commons is appreciated but not required.
+
+## Grand Etteilla
+
+### Source Information
+- **System**: Etteilla (Jean-Baptiste Alliette, 1789) — the first tarot designed for divination
+- **Edition**: H. Pussey, Paris, c. 1880–1890
+- **Current Source**: Bibliothèque nationale de France (Gallica, `btv1b105111415`) via Wikimedia Commons — [Category:Etteilla I tarot deck](https://commons.wikimedia.org/wiki/Category:Etteilla_I_tarot_deck)
+- **License**: Public Domain (every downloaded file verified as PD via the Commons API)
+- **Download Method**: `scripts/download_commons_deck.py --deck etteilla`
+
+### Image Details
+- **Cards**: 75 of 78, named `NN_<Title>.jpg` with Etteilla's own 1–78 numbering (e.g. `77_Parfait_Contentement.jpg`)
+- **Missing**: 49, 63 and 78 (Folie) are not on Commons; 16 and 17 come from a lower-resolution copy of the same edition (800×1416)
+- **Format**: JPG, ~1600×2800 px
+- **Note**: Not RWS or Marseille — each card carries an upright meaning at the top and a reversed one at the bottom
+
+### Attribution Requirements
+Public domain — credit to the Bibliothèque nationale de France / Gallica is appreciated.
+
+## Tarot de Viéville
+
+### Source Information
+- **Maker**: Jacques Viéville, Paris, c. 1650
+- **Current Source**: Bibliothèque nationale de France (Gallica, `btv1b10510963k`) via Wikimedia Commons — [Category:Jeu de tarot à enseignes italiennes dit "tarot Viéville"](https://commons.wikimedia.org/wiki/Category:Jeu_de_tarot_%C3%A0_enseignes_italiennes_dit_%22tarot_Vi%C3%A9ville%22_-_jeu_de_cartes,_estampe_-_btv1b10510963k)
+- **License**: Public Domain
+- **Download Method**: `scripts/download_commons_deck.py --deck vieville`
+
+### Image Details
+- **Cards**: 78 plus `Cover.jpg`; Marseille-style names (`00_Le_Mat.jpg`, `Cups01.jpg`, …)
+- **Format**: JPG, ~1706×3040 px
+- **Note**: Files keep the number printed on each card, which differs from Marseille:
+  VII is Justice, VIII the Chariot, IX Force and XI the Hermit. Several trumps also have
+  their own imagery (XVI is a tree struck by fire rather than a tower, XIX a rider with a banner).
+
+### Attribution Requirements
+Public domain — credit to the Bibliothèque nationale de France / Gallica is appreciated.
+
+## Oswald Wirth Tarot
+
+### Source Information
+- **Artist**: Oswald Wirth (1860–1943)
+- **Origin**: Paris, 1889 ("Les 22 Arcanes du Tarot Kabbalistique")
+- **Current Source**: Bibliothèque nationale de France (Gallica) via Wikimedia Commons — [Category:Oswald Wirth tarot deck](https://commons.wikimedia.org/wiki/Category:Oswald_Wirth_tarot_deck)
+- **License**: Public Domain (the artist died in 1943)
+- **Download Method**: `scripts/download_commons_deck.py --deck oswald-wirth`
+
+### Image Details
+- **Cards**: 22 major arcana only (`00_Le_Fou.jpg`–`21_Le_Monde.jpg`)
+- **Format**: JPG, ~910×1536 px
+
+### Attribution Requirements
+Public domain — credit to the Bibliothèque nationale de France / Gallica is appreciated.
+
+## Tarot Nouveau
+
+### Source Information
+- **Publisher**: B.-P. Grimaud, France, 1898
+- **Type**: French-suited game tarot (for playing the card game, not for divination)
+- **Current Source**: Bibliothèque nationale de France (Gallica, `btv1b10510159t`) via Wikimedia Commons — [Category:Tarot nouveau - Grimaud - 1898](https://commons.wikimedia.org/wiki/Category:Tarot_nouveau_-_Grimaud_-_1898)
+- **License**: Public Domain
+- **Download Method**: `scripts/download_commons_deck.py --deck tarot-nouveau`
+
+### Image Details
+- **Cards**: 78 — `00_Excuse.jpg`, trumps `01_Atout.jpg`–`21_Atout.jpg` (numbered genre scenes), suits `Hearts`, `Diamonds`, `Clubs`, `Spades` `01`–`14` (Jack 11, Knight 12, Queen 13, King 14), plus `Cover.jpg`
+- **Format**: JPG, ~1500×2655 px
+
+### Attribution Requirements
+Public domain — credit to the Bibliothèque nationale de France / Gallica is appreciated.
+
+## Visconti-Sforza Tarot
+
+### Source Information
+- **Artist**: attributed to Bonifacio Bembo (workshop), Milan, c. 1450–1470
+- **Originals**: Pierpont Morgan Library (New York), Accademia Carrara (Bergamo) and the Colleoni family
+- **Current Source**: Wikimedia Commons — [Category:Pierpont Morgan-Bergamo Visconti-Sforza Tarot](https://commons.wikimedia.org/wiki/Category:Pierpont_Morgan-Bergamo_Visconti-Sforza_Tarot)
+- **Scans**: David Madore (2003), scanned from an AGMüller facsimile edition
+- **License**: Public Domain
+- **Download Method**: `scripts/download_commons_deck.py --deck visconti-sforza`
+
+### Image Details
+- **Cards**: 73 of 78, RWS-style names (`00_Fool.jpg`, `Cups01.jpg`, …)
+- **Missing**: the Devil, the Tower, the Knight of Coins and the Three of Swords are lost from the original deck; the King of Cups survives but is missing from this scan set
+- **Format**: JPG, 512×1024 px
+
+### Copyright Status
+The artwork is 15th-century and in the public domain. The files are scans of a modern
+facsimile printing; the facsimile's four reconstructed cards (drawn in the 20th century)
+are not included.
+
+### Attribution Requirements
+Public domain — credit to David Madore for the scans is appreciated.
 
 ## Future Decks
 

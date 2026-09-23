@@ -37,6 +37,41 @@ This repository contains various tarot card decks: public domain decks and the o
 - **Description**: The classic French Tarot de Marseille pattern. Uses the historical trump numbering (VIII Justice, XI Force) — the reverse of Rider-Waite.
 - **Format**: 78 PNG cards (22 trumps + 56 minor arcana)
 
+### Grand Etteilla
+- **Location**: `tarot/etteilla/`
+- **Source**: BnF (Gallica) via Wikimedia Commons
+- **License**: Public Domain
+- **Description**: The first tarot designed for divination, in Etteilla's own 1–78 system (H. Pussey edition, Paris, c. 1880–1890). Each card shows an upright meaning at the top and a reversed one at the bottom.
+- **Format**: 75 JPG cards `NN_<Title>.jpg` (49, 63 and 78 are missing on Commons)
+
+### Tarot de Viéville
+- **Location**: `tarot/vieville/`
+- **Source**: BnF (Gallica) via Wikimedia Commons
+- **License**: Public Domain
+- **Description**: Jacques Viéville's tarot (Paris, c. 1650), one of the earliest surviving French decks, predating the classic Marseille pattern.
+- **Format**: 78 JPG cards (Marseille-style names) plus `Cover.jpg`
+
+### Visconti-Sforza
+- **Location**: `tarot/visconti-sforza/`
+- **Source**: Wikimedia Commons (scans of a facsimile edition)
+- **License**: Public Domain
+- **Description**: The most famous Renaissance tarot, hand-painted with gold leaf (Milan, c. 1450–1470). Four cards of the original are lost.
+- **Format**: 73 JPG cards with RWS-style names
+
+### Oswald Wirth Tarot
+- **Location**: `tarot/oswald-wirth/`
+- **Source**: BnF (Gallica) via Wikimedia Commons
+- **License**: Public Domain
+- **Description**: Oswald Wirth's esoteric tarot (Paris, 1889), a classic of the occult tradition.
+- **Format**: 22 JPG cards — major arcana only
+
+### Tarot Nouveau
+- **Location**: `tarot/tarot-nouveau/`
+- **Source**: BnF (Gallica) via Wikimedia Commons
+- **License**: Public Domain
+- **Description**: French-suited game tarot by Grimaud (1898): trumps are numbered genre scenes, suits are ♥ ♦ ♣ ♠. Made for the card game, not for divination.
+- **Format**: 78 JPG cards plus `Cover.jpg`
+
 ## Repository Structure
 
 ```
@@ -62,11 +97,17 @@ TarotCards/
 │   │   ├── 720px/
 │   │   ├── gif/
 │   │   └── metadata.json
-│   └── marseille/        # Tarot de Marseille (Wikimedia Commons, PD)
-│       ├── full/
-│       ├── 720px/
-│       ├── gif/
-│       └── metadata.json
+│   ├── marseille/        # Tarot de Marseille (Wikimedia Commons, PD)
+│   │   ├── full/
+│   │   ├── 720px/
+│   │   ├── gif/
+│   │   └── metadata.json
+│   ├── etteilla/         # Grand Etteilla (BnF via Commons, PD)
+│   ├── vieville/         # Tarot de Viéville (BnF via Commons, PD)
+│   ├── visconti-sforza/  # Visconti-Sforza (Commons, PD)
+│   ├── oswald-wirth/     # Oswald Wirth, major arcana (BnF via Commons, PD)
+│   └── tarot-nouveau/    # Tarot Nouveau (BnF via Commons, PD)
+│                         # each: full/, 720px/, gif/, metadata.json
 ├── decks_config.json      # Configuration file for all decks
 └── scripts/
     ├── download_commons_deck.py
@@ -102,6 +143,7 @@ python scripts/download_commons_deck.py --list
 # Download a full deck (saved to tarot/<deck>/full/)
 python scripts/download_commons_deck.py --deck sola-busca
 python scripts/download_commons_deck.py --deck marseille
+python scripts/download_commons_deck.py --deck etteilla   # also: vieville, visconti-sforza, oswald-wirth, tarot-nouveau
 ```
 
 **Features**:
@@ -349,7 +391,7 @@ Each part of the repository has its own license:
 | Part | License |
 |---|---|
 | Scripts and documentation | [MIT](LICENSE) |
-| Rider-Waite, Sola Busca, Tarot de Marseille images | Public Domain |
+| Rider-Waite, Sola Busca, Tarot de Marseille, Grand Etteilla, Viéville, Visconti-Sforza, Oswald Wirth, Tarot Nouveau images | Public Domain |
 | Soimoi deck images (`tarot/soimoi/`) | [CC BY 4.0](tarot/soimoi/LICENSE) |
 
 **This means**:
@@ -359,7 +401,7 @@ Each part of the repository has its own license:
 
 ## Sources and Attribution
 
-The Rider-Waite, Sola Busca and Tarot de Marseille images come from public domain sources. The Soimoi deck is an original work by Mike Koz. See [SOURCES.md](SOURCES.md) for detailed attribution information.
+All decks except Soimoi come from public domain sources. The Soimoi deck is an original work by Mike Koz. See [SOURCES.md](SOURCES.md) for detailed attribution information.
 
 ## Disclaimer
 
